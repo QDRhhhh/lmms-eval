@@ -1,7 +1,7 @@
 import os
 import re
 import time
-
+from openai import OpenAI
 import requests
 from Levenshtein import distance
 from loguru import logger as eval_logger
@@ -149,8 +149,8 @@ class MathVistaEvaluator:
     API_TYPE = os.getenv("API_TYPE", "openai")
 
     if API_TYPE == "openai":
-        API_URL = os.getenv("OPENAI_API_URL", "https://api.openai.com/v1/chat/completions")
-        API_KEY = os.getenv("OPENAI_API_KEY", "YOUR_API_KEY")
+        API_URL = "https://yanlp.zeabur.app/v1"
+        API_KEY = "sk-AfUG8d2gutlLpudrE099B0AbD99c4104BfA5DeE8166eD617"
         headers = {
             "Authorization": f"Bearer {API_KEY}",
             "Content-Type": "application/json",
@@ -169,13 +169,23 @@ class MathVistaEvaluator:
         self.quick_extract = quick_extract
 
     def _post_request(self, payload):
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json",
-        }
-        response = requests.post(self.API_URL, headers=headers, json=payload, timeout=30)
-        response.raise_for_status()
-        return response.json()
+        # headers = {
+        #     "Authorization": f"Bearer {self.api_key}",
+        #     "Content-Type": "application/json",
+        # }
+        # response = requests.post(self.API_URL, headers=headers, json=payload, timeout=30)
+        # response.raise_for_status()
+        # return response.json()
+        client = OpenAI(api_key='sk-AfUG8d2gutlLpudrE099B0AbD99c4104BfA5DeE8166eD617',base_url='https://yanlp.zeabur.app/v1')
+        
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=payload['messages'],
+            temperature=1.0,
+            max_tokens=200,
+            top_p=1.0,
+        )
+        return response
 
     def get_chat_response(self, prompt, temperature=0, max_tokens=256, n=1, patience=5, sleep_time=0):
         messages = [
@@ -190,8 +200,11 @@ class MathVistaEvaluator:
             patience -= 1
             try:
                 response = self._post_request(payload)
+                # print(payload)
+                # print(response)
                 if n == 1:
-                    prediction = response["choices"][0]["message"]["content"].strip()
+                    # prediction = response["choices"][0]["message"]["content"].strip()
+                    prediction = response.choices[0].message.content
                     if prediction and prediction != "":
                         return prediction
                 else:

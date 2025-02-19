@@ -1,0 +1,102 @@
+{
+    "physics-8049": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "physics-8049"
+    },
+    "cs-37871": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "cs-37871"
+    },
+    "hep-ph-1730": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "hep-ph-1730"
+    },
+    "physics-1153": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "physics-1153"
+    },
+    "physics-11408": {
+        "extracted_answer": "B",
+        "score": 1,
+        "figure_id": "physics-11408"
+    },
+    "physics-26553": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "physics-26553"
+    },
+    "cs-29871": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "cs-29871"
+    },
+    "quant-ph-5036": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "quant-ph-5036"
+    },
+    "nlin-4147": {
+        "extracted_answer": "B",
+        "score": 0,
+        "figure_id": "nlin-4147"
+    },
+    "cond-mat-49152": {
+        "extracted_answer": "C",
+        "score": 1,
+        "figure_id": "cond-mat-49152"
+    },
+    "cs-28122": {
+        "extracted_answer": "C) Four",
+        "score": 1,
+        "figure_id": "cs-28122"
+    },
+    "astro-ph-30456": {
+        "extracted_answer": "J-K color index",
+        "score": 0,
+        "figure_id": "astro-ph-30456"
+    },
+    "astro-ph-31041": {
+        "extracted_answer": "B",
+        "score": 1,
+        "figure_id": "astro-ph-31041"
+    },
+    "quant-ph-12628": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "quant-ph-12628"
+    },
+    "cond-mat-2862": {
+        "extracted_answer": "B",
+        "score": 1,
+        "figure_id": "cond-mat-2862"
+    },
+    "stat-12885": {
+        "extracted_answer": "A",
+        "score": 1,
+        "figure_id": "stat-12885"
+    },
+    "physics-38688": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "physics-38688"
+    },
+    "stat-121": {
+        "extracted_answer": "C",
+        "score": 1,
+        "figure_id": "stat-121"
+    },
+    "nlin-3283": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "nlin-3283"
+    },
+    "physics-20563": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "physics-20563"
+    }
+}

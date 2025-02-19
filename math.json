@@ -1,0 +1,52 @@
+{
+    "func1": {
+        "extracted_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': '\\n    Answer the question.Do not give any explanation:\\n    question: As shown, A is a point on the hyperbolic function y = k/x. If the area of \u25b3ABO is 2, then the value of k is ______.\\n    '}]}]}. <OCR/> A B O B X A B B B B B B"
+    },
+    "func1002": {
+        "extracted_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': '\\n    Answer the question.Do not give any explanation:\\n    question: As shown in the figure, the line l1: y = x + 4 intersects with the line l2: y = mx + n at point A(-1, b). Then the solution to the system of equations { y - x = 4, y - mx = n } with respect to x and y is (    ).\\n    \\nchoices:\\nA:\\\\( \\\\begin{cases} x = 3 \\\\\\\\ y = 1 \\\\end{cases} \\\\)\\nB:\\\\( \\\\begin{cases} x = -1 \\\\\\\\ y = -3 \\\\end{cases} \\\\)\\nC:\\\\( \\\\begin{cases} x = -1 \\\\\\\\ y = 3 \\\\end{cases} \\\\)\\nD:\\\\( \\\\begin{cases} x = 3 \\\\\\\\ y = -1 \\\\end{cases} \\\\)\\n'}]}]}. <OCR/> A b -1 O x y=mx+n n x"
+    },
+    "func1022": {
+        "extracted_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': '\\n    Answer the question.Do not give any explanation:\\n    question: As shown in the figure, the graphs of the functions y = 2x and y = ax + 6 intersect at point P(m, 4). Then the solution set of the inequality 2x \u2265 ax + 6 in terms of x is (  ).\\n    \\nchoices:\\nA:\\\\(x \\\\geq 2\\\\)\\nB:\\\\(x \\\\leq 2\\\\)\\nC:\\\\(x \\\\geq 4\\\\)\\nD:\\\\(x \\\\leq 3\\\\)\\n'}]}]}.\\n[{'role': 'assistant', 'content': 'C:\\\\"
+    },
+    "func1029": {
+        "extracted_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': '\\n    Answer the question.Do not give any explanation:\\n    question: As shown in the figure, M is the center of the regular hexagon EFGHPQ. In the rectangular coordinate system, if the coordinates of point M are (0, 0) and the coordinates of point E are (-1, 0), then the coordinates of point H are ( ).\\n    \\nchoices:\\nA:(-2, 0)\\nB:(1, 1)\\nC:(1, 0)\\nD:(2, 0)\\n'}]}]}. <OCR/> P E (-1,0) M (0,0"
+    },
+    "func1032": {
+        "extracted_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': '\\n    Answer the question.Do not give any explanation:\\n    question: As shown in the figure, in a plane rectangular coordinate system, two insects, A and B, start simultaneously from point O at the same speed and crawl at a uniform speed along paths L1 and L2 (indicated by bold lines) respectively, completing one round and returning to the origin. The time taken is t1 and t2 respectively. If point A(-4, 4) and point B(4, 4), what is the relationship between t1 and t2? ( )\\n    \\nchoices:\\nA:t1 < t2\\nB:t1 = t2\\nC:t1 > t2\\nD:Cannot be determined\\n'}]}]}. <OCR/> A a a B a a a a a a a a"
+    },
+    "func1000": {
+        "extracted_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': '\\n    Answer the question.Do not give any explanation:\\n    question: According to research, an increase in blood lactate concentration in the human body is an important reason for feeling fatigued after exercise. When the blood lactate concentration drops below 50mg/L, the athlete has essentially recovered from fatigue. Sports scientists have drawn a graph based on experimental data, which reflects the change in blood lactate concentration in athletes over time for different recovery methods. Which of the following statements is incorrect?\\n    \\nchoices:\\nA:The lactic acid concentration first rises and then falls after exercise.\\nB:At t = 20 min, the average lactic acid concentration under both methods is about 150mg/L.\\nC:Using a static method to relax, the athlete can eliminate fatigue in about 30 minutes.\\nD:To quickly achieve the effect of eliminating fatigue, the athlete should relax using a slow exercise method.\\n'}]}]}. <OCR/> \u8840\u4e73\u9178\u6d53\u5ea6 (mg/L)"
+    },
+    "func1006": {
+        "extract_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': '\\n    Answer the question.Do not give any explanation:\\n    question: As shown in the figure, the linear function y\u2081 = x + b and the linear function y\u2082 = kx + 4 intersect at point P(2, 3). What is the solution set for the inequality x + b > kx + 4 with respect to x?\\n    \\nchoices:\\nA:x > -2\\nB:x > 0\\nC:x > 2\\nD:x > 3\\n'}]}]}. <OCR/> P 3 2 =kx+4 4"
+    },
+    "func1026": {
+        "extracted_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': '\\n    Answer the question.Do not give any explanation:\\n    question: As shown in the figure, P is a point in the rectangular coordinate system. A perpendicular is drawn from point P to the x-axis and y-axis, with the foot M on the x-axis having a coordinate of 3 and the foot N on the y-axis having a coordinate of 4. What are the coordinates of point P? (   )\\n    \\nchoices:\\nA:(0, 3)\\nB:(0, 4)\\nC:(4, 3)\\nD:(3, 4)\\n'}]}]}. <OCR/> y 4 N P 3 2 1"
+    },
+    "func1030": {
+        "extracted_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': \"\\n    Answer the question.Do not give any explanation:\\n    question: Spring chill, on March 23, 2024, it rained in Qixian, and soon turned into sleet. Figure 1 shows the variation of temperature over time. What is the day's temperature difference (the difference between the highest and lowest temperatures)?\\n    \\nchoices:\\nA:16\u00b0C\\nB:12\u00b0C\\nC:8\u00b0C\\nD:4\u00b0C\\n\"}]}]}. <OCR/> 12 8 4 0 4 8"
+    },
+    "func1035": {
+        "extract_answer": "",
+        "score": 0,
+        "pred": "[{'role': 'user', 'content': [{'type': 'image'}, {'type': 'text', 'text': '\\n    Answer the question.Do not give any explanation:\\n    question: As shown in the figure, in the same Cartesian coordinate system, the graphs of the functions y\u2081 = 2x + a and y\u2082 = -x + 2 intersect at point A(m, 3). Then the solution set of the inequality y\u2081 < y\u2082 is (    ).\\n    \\nchoices:\\nA:x > -1\\nB:x > -1\\nC:x < -1\\nD:x \u2264 -1\\n'}]}]}. <OCR/> A O x x x x x x x x x x"
+    }
+}

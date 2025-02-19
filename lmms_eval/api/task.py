@@ -261,6 +261,7 @@ class Task(abc.ABC):
             - `datasets.DownloadMode.FORCE_REDOWNLOAD`
                 Fresh download and fresh dataset.
         """
+
         self.dataset = datasets.load_dataset(
             path=self.DATASET_PATH,
             name=self.DATASET_NAME,
@@ -455,7 +456,6 @@ class Task(abc.ABC):
                 per_task_metadata.update(self.config.metadata)
 
             inst = self.construct_requests(doc_id=doc_id, ctx=fewshot_ctx, metadata=per_task_metadata)
-
             if not isinstance(inst, list):
                 inst = [inst]
 

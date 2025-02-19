@@ -22,8 +22,8 @@ with open(Path(__file__).parent / "mathvista.yaml", "r") as f:
 
 API_TYPE = os.getenv("API_TYPE", "openai")
 if API_TYPE == "openai":
-    API_URL = os.getenv("OPENAI_API_URL", "https://api.openai.com/v1/chat/completions")
-    API_KEY = os.getenv("OPENAI_API_KEY", "YOUR_API_KEY")
+    API_URL = "https://yanlp.zeabur.app/v1"
+    API_KEY = "sk-AfUG8d2gutlLpudrE099B0AbD99c4104BfA5DeE8166eD617"
     headers = {
         "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json",
@@ -36,7 +36,7 @@ elif API_TYPE == "azure":
         "Content-Type": "application/json",
     }
 
-mathvista_evaluator = MathVistaEvaluator(api_key=API_KEY, gpt_model=config["metadata"]["gpt_eval_model_name"])
+mathvista_evaluator = MathVistaEvaluator(api_key=API_KEY, gpt_model='gpt-4o')
 
 
 def mathvista_doc_to_visual(doc):
@@ -57,10 +57,10 @@ def mathvista_doc_to_text(doc, lmms_eval_specific_kwargs=None):
     }
     query_prompt = mathvista_evaluator.create_one_query(
         problem,
-        shot_num=lmms_eval_specific_kwargs["shot"],
+        # shot_num=lmms_eval_specific_kwargs["shot"],
         shot_type=lmms_eval_specific_kwargs["shot_type"],
-        use_caption=lmms_eval_specific_kwargs["use_caption"],
-        use_ocr=lmms_eval_specific_kwargs["use_ocr"],
+        # use_caption=lmms_eval_specific_kwargs["use_caption"],
+        # use_ocr=lmms_eval_specific_kwargs["use_ocr"],
     )
     return query_prompt
 
@@ -108,7 +108,7 @@ def mathvista_aggregate_results(results, args, *, calculate_gain=False, random_s
     correct = sum(1 for idx, pid in enumerate(full_pids) if results[idx]["true_false"])
     accuracy = round(correct / total * 100, 2)
     scores = {"average": {"accuracy": accuracy, "correct": correct, "total": total}}
-
+    print(scores)
     for result in results:
         result.update(result.pop("metadata"))
 

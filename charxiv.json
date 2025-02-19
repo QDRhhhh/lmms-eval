@@ -1,0 +1,5002 @@
+{
+    "0": {
+        "extracted_answer": "Ft-CNN",
+        "score": 0,
+        "figure_id": "0"
+    },
+    "3": {
+        "extracted_answer": "(b) OPT",
+        "score": 1,
+        "figure_id": "3"
+    },
+    "7": {
+        "extracted_answer": "Kansas City",
+        "score": 1,
+        "figure_id": "7"
+    },
+    "12": {
+        "extracted_answer": "Accelerated RAT",
+        "score": 0,
+        "figure_id": "12"
+    },
+    "14": {
+        "extracted_answer": "92",
+        "score": 0,
+        "figure_id": "14"
+    },
+    "20": {
+        "extracted_answer": "Top institutions, Non-top institutions",
+        "score": 0,
+        "figure_id": "20"
+    },
+    "26": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "26"
+    },
+    "29": {
+        "extracted_answer": "7",
+        "score": 0,
+        "figure_id": "29"
+    },
+    "36": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "36"
+    },
+    "40": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "40"
+    },
+    "42": {
+        "extracted_answer": "PD-HDDPG, proposed",
+        "score": 0,
+        "figure_id": "42"
+    },
+    "49": {
+        "extracted_answer": "Mover-2 + CLP(M-BERT)",
+        "score": 0,
+        "figure_id": "49"
+    },
+    "53": {
+        "extracted_answer": "Network",
+        "score": 0,
+        "figure_id": "53"
+    },
+    "57": {
+        "extracted_answer": "Score = 5",
+        "score": 0,
+        "figure_id": "57"
+    },
+    "61": {
+        "extracted_answer": "4.17",
+        "score": 0,
+        "figure_id": "61"
+    },
+    "65": {
+        "extracted_answer": "123",
+        "score": 0,
+        "figure_id": "65"
+    },
+    "75": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "75"
+    },
+    "81": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "81"
+    },
+    "84": {
+        "extracted_answer": "T4",
+        "score": 1,
+        "figure_id": "84"
+    },
+    "87": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "87"
+    },
+    "92": {
+        "extracted_answer": "(b)",
+        "score": 1,
+        "figure_id": "92"
+    },
+    "96": {
+        "extracted_answer": "30",
+        "score": 0,
+        "figure_id": "96"
+    },
+    "106": {
+        "extract_answer": "RMSPropLSTM, SRLSTM",
+        "score": 0,
+        "figure_id": "106"
+    },
+    "108": {
+        "extracted_answer": "(a)",
+        "score": 1,
+        "figure_id": "108"
+    },
+    "111": {
+        "extracted_answer": "6B",
+        "score": 1,
+        "figure_id": "111"
+    },
+    "124": {
+        "extracted_answer": "6",
+        "score": 0,
+        "figure_id": "124"
+    },
+    "130": {
+        "extracted_answer": "13",
+        "score": 0,
+        "figure_id": "130"
+    },
+    "134": {
+        "extracted_answer": "all-at-once",
+        "score": 0,
+        "figure_id": "134"
+    },
+    "137": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "137"
+    },
+    "145": {
+        "extracted_answer": "TwoWall",
+        "score": 0,
+        "figure_id": "145"
+    },
+    "147": {
+        "extracted_answer": "Aug 22, 12:00",
+        "score": 1,
+        "figure_id": "147"
+    },
+    "153": {
+        "extracted_answer": "SA-Q-dev",
+        "score": 0,
+        "figure_id": "153"
+    },
+    "155": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "155"
+    },
+    "159": {
+        "extracted_answer": "Pain",
+        "score": 0,
+        "figure_id": "159"
+    },
+    "163": {
+        "extracted_answer": "5",
+        "score": 0,
+        "figure_id": "163"
+    },
+    "171": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "171"
+    },
+    "173": {
+        "extracted_answer": "LLC (HP)",
+        "score": 0,
+        "figure_id": "173"
+    },
+    "179": {
+        "extracted_answer": "1e+07",
+        "score": 0,
+        "figure_id": "179"
+    },
+    "181": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "181"
+    },
+    "193": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "193"
+    },
+    "196": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "196"
+    },
+    "198": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "198"
+    },
+    "211": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "211"
+    },
+    "214": {
+        "extracted_answer": "Neuronal Model",
+        "score": 0,
+        "figure_id": "214"
+    },
+    "217": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "217"
+    },
+    "223": {
+        "extracted_answer": "Block 7 Conv 2",
+        "score": 1,
+        "figure_id": "223"
+    },
+    "226": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "226"
+    },
+    "229": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "229"
+    },
+    "239": {
+        "extracted_answer": "\u03b2-TCVAE",
+        "score": 0,
+        "figure_id": "239"
+    },
+    "241": {
+        "extracted_answer": "Task 5",
+        "score": 0,
+        "figure_id": "241"
+    },
+    "244": {
+        "extracted_answer": "Random",
+        "score": 0,
+        "figure_id": "244"
+    },
+    "247": {
+        "extracted_answer": "Unnatural dialogue style",
+        "score": 0,
+        "figure_id": "247"
+    },
+    "249": {
+        "extracted_answer": "10000",
+        "score": 0,
+        "figure_id": "249"
+    },
+    "255": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "255"
+    },
+    "257": {
+        "extracted_answer": "2dconv",
+        "score": 0,
+        "figure_id": "257"
+    },
+    "266": {
+        "extracted_answer": "Omniglot",
+        "score": 1,
+        "figure_id": "266"
+    },
+    "268": {
+        "extract_answer": "Training on 6-hop Questions",
+        "score": 0,
+        "figure_id": "268"
+    },
+    "270": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "270"
+    },
+    "279": {
+        "extracted_answer": "Warm-a",
+        "score": 0,
+        "figure_id": "279"
+    },
+    "283": {
+        "extracted_answer": "Pass",
+        "score": 1,
+        "figure_id": "283"
+    },
+    "285": {
+        "extracted_answer": "Streamline",
+        "score": 1,
+        "figure_id": "285"
+    },
+    "288": {
+        "extracted_answer": "Adversarial, AugMix, RandAug",
+        "score": 0,
+        "figure_id": "288"
+    },
+    "292": {
+        "extracted_answer": "GPT-4",
+        "score": 0,
+        "figure_id": "292"
+    },
+    "300": {
+        "extracted_answer": "Nominal rate, Real rate",
+        "score": 0,
+        "figure_id": "300"
+    },
+    "310": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "310"
+    },
+    "312": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "312"
+    },
+    "317": {
+        "extracted_answer": "[-0.0316, -0.0318]",
+        "score": 1,
+        "figure_id": "317"
+    },
+    "321": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "321"
+    },
+    "326": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "326"
+    },
+    "330": {
+        "extracted_answer": "PULSE05 to Fuller1",
+        "score": 0,
+        "figure_id": "330"
+    },
+    "333": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "333"
+    },
+    "336": {
+        "extracted_answer": "Floor layers, Stonemasons",
+        "score": 0,
+        "figure_id": "336"
+    },
+    "339": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "339"
+    },
+    "343": {
+        "extracted_answer": "Gifts&Gardening",
+        "score": 0,
+        "figure_id": "343"
+    },
+    "349": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "349"
+    },
+    "358": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "358"
+    },
+    "367": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "367"
+    },
+    "372": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "372"
+    },
+    "377": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "377"
+    },
+    "384": {
+        "extracted_answer": "(a)",
+        "score": 0,
+        "figure_id": "384"
+    },
+    "391": {
+        "extracted_answer": "Female",
+        "score": 1,
+        "figure_id": "391"
+    },
+    "395": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "395"
+    },
+    "402": {
+        "extracted_answer": "The column on the right",
+        "score": 1,
+        "figure_id": "402"
+    },
+    "407": {
+        "extract_answer": "T\u0304_\u03bb = 50",
+        "score": 0,
+        "figure_id": "407"
+    },
+    "410": {
+        "extracted_answer": "TSLS, LIML",
+        "score": 0,
+        "figure_id": "410"
+    },
+    "412": {
+        "extracted_answer": "Behavioral SIR",
+        "score": 1,
+        "figure_id": "412"
+    },
+    "416": {
+        "extracted_answer": "LSTM-VIX",
+        "score": 0,
+        "figure_id": "416"
+    },
+    "421": {
+        "extracted_answer": "NL",
+        "score": 0,
+        "figure_id": "421"
+    },
+    "423": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "423"
+    },
+    "431": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "431"
+    },
+    "434": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "434"
+    },
+    "440": {
+        "extracted_answer": "Full",
+        "score": 1,
+        "figure_id": "440"
+    },
+    "446": {
+        "extracted_answer": "DAOR, DICR",
+        "score": 0,
+        "figure_id": "446"
+    },
+    "448": {
+        "extracted_answer": "Inner Mongolia",
+        "score": 0,
+        "figure_id": "448"
+    },
+    "450": {
+        "extracted_answer": "0.45",
+        "score": 1,
+        "figure_id": "450"
+    },
+    "452": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "452"
+    },
+    "458": {
+        "extracted_answer": "NFXP-I",
+        "score": 0,
+        "figure_id": "458"
+    },
+    "462": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "462"
+    },
+    "464": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "464"
+    },
+    "468": {
+        "extracted_answer": "Time-invariant",
+        "score": 1,
+        "figure_id": "468"
+    },
+    "471": {
+        "extracted_answer": "Clinton Foundation",
+        "score": 0,
+        "figure_id": "471"
+    },
+    "474": {
+        "extract_answer": "USA",
+        "score": 1,
+        "figure_id": "474"
+    },
+    "477": {
+        "extracted_answer": "Information",
+        "score": 0,
+        "figure_id": "477"
+    },
+    "481": {
+        "extracted_answer": "Law Medicine",
+        "score": 0,
+        "figure_id": "481"
+    },
+    "487": {
+        "extract_answer": "15",
+        "score": 0,
+        "figure_id": "487"
+    },
+    "489": {
+        "extracted_answer": "0",
+        "score": 0,
+        "figure_id": "489"
+    },
+    "495": {
+        "extract_answer": "35.00",
+        "score": 0,
+        "figure_id": "495"
+    },
+    "499": {
+        "extracted_answer": "Increase",
+        "score": 1,
+        "figure_id": "499"
+    },
+    "504": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "504"
+    },
+    "507": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "507"
+    },
+    "510": {
+        "extracted_answer": "1944",
+        "score": 0,
+        "figure_id": "510"
+    },
+    "513": {
+        "extracted_answer": "(CR, SVI, GI)",
+        "score": 1,
+        "figure_id": "513"
+    },
+    "515": {
+        "extracted_answer": "K=0.8",
+        "score": 1,
+        "figure_id": "515"
+    },
+    "517": {
+        "extracted_answer": "URR",
+        "score": 0,
+        "figure_id": "517"
+    },
+    "523": {
+        "extracted_answer": "4",
+        "score": 1,
+        "figure_id": "523"
+    },
+    "527": {
+        "extracted_answer": "Quartile 2",
+        "score": 0,
+        "figure_id": "527"
+    },
+    "531": {
+        "extract_answer": "Subsidy for competitor",
+        "score": 0,
+        "figure_id": "531"
+    },
+    "533": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "533"
+    },
+    "542": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "542"
+    },
+    "547": {
+        "extracted_answer": "Restocking (\u03c4)",
+        "score": 0,
+        "figure_id": "547"
+    },
+    "550": {
+        "extract_answer": "Yes",
+        "score": 1,
+        "figure_id": "550"
+    },
+    "555": {
+        "extracted_answer": "Inst. Low \u03bb",
+        "score": 0,
+        "figure_id": "555"
+    },
+    "560": {
+        "extract_answer": "3",
+        "score": 0,
+        "figure_id": "560"
+    },
+    "565": {
+        "extract_answer": "increased",
+        "score": 0,
+        "figure_id": "565"
+    },
+    "572": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "572"
+    },
+    "575": {
+        "extracted_answer": "Nuclear operation safety factor",
+        "score": 1,
+        "figure_id": "575"
+    },
+    "577": {
+        "extracted_answer": "[1, 1]",
+        "score": 0,
+        "figure_id": "577"
+    },
+    "581": {
+        "extracted_answer": "S&P 500",
+        "score": 1,
+        "figure_id": "581"
+    },
+    "587": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "587"
+    },
+    "590": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "590"
+    },
+    "592": {
+        "extracted_answer": "Tax multiplier",
+        "score": 1,
+        "figure_id": "592"
+    },
+    "595": {
+        "extracted_answer": "0.005",
+        "score": 0,
+        "figure_id": "595"
+    },
+    "600": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "600"
+    },
+    "603": {
+        "extracted_answer": "Finetune Two Layers",
+        "score": 1,
+        "figure_id": "603"
+    },
+    "606": {
+        "extract_answer": "3",
+        "score": 0,
+        "figure_id": "606"
+    },
+    "611": {
+        "extracted_answer": "OB2 Nested",
+        "score": 1,
+        "figure_id": "611"
+    },
+    "620": {
+        "extracted_answer": "3000, 4000",
+        "score": 0,
+        "figure_id": "620"
+    },
+    "628": {
+        "extracted_answer": "35",
+        "score": 0,
+        "figure_id": "628"
+    },
+    "631": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "631"
+    },
+    "636": {
+        "extracted_answer": "0.01",
+        "score": 0,
+        "figure_id": "636"
+    },
+    "639": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "639"
+    },
+    "642": {
+        "extracted_answer": "E1, E2",
+        "score": 0,
+        "figure_id": "642"
+    },
+    "649": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "649"
+    },
+    "651": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "651"
+    },
+    "657": {
+        "extracted_answer": "BASIL",
+        "score": 1,
+        "figure_id": "657"
+    },
+    "659": {
+        "extracted_answer": "HoVer-Net + Dot Branch",
+        "score": 1,
+        "figure_id": "659"
+    },
+    "661": {
+        "extracted_answer": "[0, 100]",
+        "score": 0,
+        "figure_id": "661"
+    },
+    "666": {
+        "extracted_answer": "Tibial Cartilage",
+        "score": 1,
+        "figure_id": "666"
+    },
+    "670": {
+        "extracted_answer": "Nominal KF",
+        "score": 0,
+        "figure_id": "670"
+    },
+    "673": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "673"
+    },
+    "678": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "678"
+    },
+    "683": {
+        "extracted_answer": "ML-based algorithm (\u03ba=4)",
+        "score": 0,
+        "figure_id": "683"
+    },
+    "685": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "685"
+    },
+    "691": {
+        "extracted_answer": "112",
+        "score": 0,
+        "figure_id": "691"
+    },
+    "694": {
+        "extracted_answer": "Parabolic Radial Perturbation",
+        "score": 1,
+        "figure_id": "694"
+    },
+    "697": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "697"
+    },
+    "701": {
+        "extracted_answer": "N=10, j=10000",
+        "score": 1,
+        "figure_id": "701"
+    },
+    "703": {
+        "extracted_answer": "0",
+        "score": 1,
+        "figure_id": "703"
+    },
+    "706": {
+        "extracted_answer": "0.05",
+        "score": 1,
+        "figure_id": "706"
+    },
+    "711": {
+        "extracted_answer": "4",
+        "score": 1,
+        "figure_id": "711"
+    },
+    "713": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "713"
+    },
+    "722": {
+        "extracted_answer": "12:00",
+        "score": 0,
+        "figure_id": "722"
+    },
+    "725": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "725"
+    },
+    "729": {
+        "extracted_answer": "Fine MPEA",
+        "score": 0,
+        "figure_id": "729"
+    },
+    "736": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "736"
+    },
+    "741": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "741"
+    },
+    "745": {
+        "extracted_answer": "A",
+        "score": 0,
+        "figure_id": "745"
+    },
+    "751": {
+        "extracted_answer": "UD",
+        "score": 0,
+        "figure_id": "751"
+    },
+    "757": {
+        "extracted_answer": "three",
+        "score": 0,
+        "figure_id": "757"
+    },
+    "766": {
+        "extracted_answer": "MTI filter (2-staggered PRF)",
+        "score": 1,
+        "figure_id": "766"
+    },
+    "771": {
+        "extracted_answer": "nuclear",
+        "score": 0,
+        "figure_id": "771"
+    },
+    "781": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "781"
+    },
+    "784": {
+        "extracted_answer": "Non-Coherent SSK-ICS-LoRa",
+        "score": 1,
+        "figure_id": "784"
+    },
+    "794": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "794"
+    },
+    "803": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "803"
+    },
+    "809": {
+        "extracted_answer": "IO-ADRC",
+        "score": 1,
+        "figure_id": "809"
+    },
+    "812": {
+        "extracted_answer": "Increasing",
+        "score": 0,
+        "figure_id": "812"
+    },
+    "814": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "814"
+    },
+    "823": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "823"
+    },
+    "833": {
+        "extracted_answer": "In-ear simulated",
+        "score": 0,
+        "figure_id": "833"
+    },
+    "842": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "842"
+    },
+    "846": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "846"
+    },
+    "851": {
+        "extracted_answer": "July",
+        "score": 1,
+        "figure_id": "851"
+    },
+    "856": {
+        "extracted_answer": "3.7",
+        "score": 1,
+        "figure_id": "856"
+    },
+    "861": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "861"
+    },
+    "865": {
+        "extracted_answer": "5",
+        "score": 0,
+        "figure_id": "865"
+    },
+    "873": {
+        "extract_answer": "PS",
+        "score": 0,
+        "figure_id": "873"
+    },
+    "878": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "878"
+    },
+    "882": {
+        "extracted_answer": "0.4",
+        "score": 1,
+        "figure_id": "882"
+    },
+    "890": {
+        "extracted_answer": "Deep Root-MUSIC",
+        "score": 0,
+        "figure_id": "890"
+    },
+    "893": {
+        "extracted_answer": "11306",
+        "score": 0,
+        "figure_id": "893"
+    },
+    "897": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "897"
+    },
+    "901": {
+        "extracted_answer": "Beta 2",
+        "score": 0,
+        "figure_id": "901"
+    },
+    "905": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "905"
+    },
+    "908": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "908"
+    },
+    "911": {
+        "extracted_answer": "8",
+        "score": 1,
+        "figure_id": "911"
+    },
+    "917": {
+        "extract_answer": "1-2",
+        "score": 1,
+        "figure_id": "917"
+    },
+    "923": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "923"
+    },
+    "925": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "925"
+    },
+    "929": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "929"
+    },
+    "931": {
+        "extracted_answer": "Rademacher random vectors",
+        "score": 0,
+        "figure_id": "931"
+    },
+    "934": {
+        "extracted_answer": "Enet",
+        "score": 0,
+        "figure_id": "934"
+    },
+    "937": {
+        "extracted_answer": "Linked List",
+        "score": 1,
+        "figure_id": "937"
+    },
+    "945": {
+        "extracted_answer": "0",
+        "score": 0,
+        "figure_id": "945"
+    },
+    "949": {
+        "extracted_answer": "case 3",
+        "score": 0,
+        "figure_id": "949"
+    },
+    "953": {
+        "extracted_answer": "the orange curve",
+        "score": 1,
+        "figure_id": "953"
+    },
+    "955": {
+        "extracted_answer": "quintic FEM",
+        "score": 0,
+        "figure_id": "955"
+    },
+    "964": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "964"
+    },
+    "966": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "966"
+    },
+    "970": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "970"
+    },
+    "974": {
+        "extracted_answer": "rank = 120",
+        "score": 1,
+        "figure_id": "974"
+    },
+    "978": {
+        "extracted_answer": "(h)",
+        "score": 0,
+        "figure_id": "978"
+    },
+    "986": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "986"
+    },
+    "988": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "988"
+    },
+    "995": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "995"
+    },
+    "997": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "997"
+    },
+    "1003": {
+        "extracted_answer": "0",
+        "score": 0,
+        "figure_id": "1003"
+    },
+    "1007": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1007"
+    },
+    "1009": {
+        "extract_answer": "0.0415",
+        "score": 0,
+        "figure_id": "1009"
+    },
+    "1011": {
+        "extracted_answer": "RR 1000",
+        "score": 1,
+        "figure_id": "1011"
+    },
+    "1015": {
+        "extracted_answer": "2P",
+        "score": 0,
+        "figure_id": "1015"
+    },
+    "1026": {
+        "extract_answer": "first subplot",
+        "score": 1,
+        "figure_id": "1026"
+    },
+    "1028": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1028"
+    },
+    "1031": {
+        "extracted_answer": "Re(s)",
+        "score": 0,
+        "figure_id": "1031"
+    },
+    "1035": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1035"
+    },
+    "1038": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1038"
+    },
+    "1041": {
+        "extracted_answer": "Nominal DLMPC (Explicit)",
+        "score": 0,
+        "figure_id": "1041"
+    },
+    "1044": {
+        "extracted_answer": "ZO-ProxSGD",
+        "score": 0,
+        "figure_id": "1044"
+    },
+    "1048": {
+        "extracted_answer": "(b)",
+        "score": 1,
+        "figure_id": "1048"
+    },
+    "1054": {
+        "extract_answer": "(2, 300)",
+        "score": 0,
+        "figure_id": "1054"
+    },
+    "1067": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "1067"
+    },
+    "1073": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1073"
+    },
+    "1076": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1076"
+    },
+    "1084": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1084"
+    },
+    "1093": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1093"
+    },
+    "1098": {
+        "extracted_answer": "IEAKF (J=50)",
+        "score": 0,
+        "figure_id": "1098"
+    },
+    "1105": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1105"
+    },
+    "1108": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "1108"
+    },
+    "1115": {
+        "extracted_answer": "Offline DEIM-MS",
+        "score": 0,
+        "figure_id": "1115"
+    },
+    "1122": {
+        "extracted_answer": "MIP, Fp PLHS",
+        "score": 0,
+        "figure_id": "1122"
+    },
+    "1124": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1124"
+    },
+    "1126": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1126"
+    },
+    "1131": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1131"
+    },
+    "1136": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "1136"
+    },
+    "1138": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1138"
+    },
+    "1142": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1142"
+    },
+    "1146": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "1146"
+    },
+    "1152": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1152"
+    },
+    "1159": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1159"
+    },
+    "1164": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1164"
+    },
+    "1170": {
+        "extract_answer": "a",
+        "score": 0,
+        "figure_id": "1170"
+    },
+    "1174": {
+        "extract_answer": "0.50",
+        "score": 0,
+        "figure_id": "1174"
+    },
+    "1177": {
+        "extracted_answer": "iteration 20",
+        "score": 0,
+        "figure_id": "1177"
+    },
+    "1181": {
+        "extracted_answer": "600",
+        "score": 0,
+        "figure_id": "1181"
+    },
+    "1183": {
+        "extracted_answer": "Number of communications",
+        "score": 0,
+        "figure_id": "1183"
+    },
+    "1185": {
+        "extracted_answer": "Sink2",
+        "score": 0,
+        "figure_id": "1185"
+    },
+    "1188": {
+        "extract_answer": "Fourth",
+        "score": 0,
+        "figure_id": "1188"
+    },
+    "1192": {
+        "extracted_answer": "PCR-SA",
+        "score": 1,
+        "figure_id": "1192"
+    },
+    "1197": {
+        "extracted_answer": "Window 8 (24:00-1:00)",
+        "score": 0,
+        "figure_id": "1197"
+    },
+    "1203": {
+        "extracted_answer": "DDO52",
+        "score": 0,
+        "figure_id": "1203"
+    },
+    "1209": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "1209"
+    },
+    "1212": {
+        "extracted_answer": "E, N-C",
+        "score": 0,
+        "figure_id": "1212"
+    },
+    "1222": {
+        "extracted_answer": "logarithmically",
+        "score": 0,
+        "figure_id": "1222"
+    },
+    "1224": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1224"
+    },
+    "1229": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1229"
+    },
+    "1233": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "1233"
+    },
+    "1237": {
+        "extracted_answer": "Distance",
+        "score": 0,
+        "figure_id": "1237"
+    },
+    "1246": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1246"
+    },
+    "1251": {
+        "extracted_answer": "GWA ejections (no spins)",
+        "score": 0,
+        "figure_id": "1251"
+    },
+    "1258": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "1258"
+    },
+    "1261": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "1261"
+    },
+    "1265": {
+        "extract_answer": "opposite",
+        "score": 1,
+        "figure_id": "1265"
+    },
+    "1267": {
+        "extracted_answer": "3.5",
+        "score": 0,
+        "figure_id": "1267"
+    },
+    "1274": {
+        "extracted_answer": "SNe Ia",
+        "score": 0,
+        "figure_id": "1274"
+    },
+    "1281": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1281"
+    },
+    "1286": {
+        "extracted_answer": "MTTK",
+        "score": 0,
+        "figure_id": "1286"
+    },
+    "1288": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1288"
+    },
+    "1294": {
+        "extract_answer": "b)",
+        "score": 0,
+        "figure_id": "1294"
+    },
+    "1297": {
+        "extracted_answer": "Lu SAM",
+        "score": 1,
+        "figure_id": "1297"
+    },
+    "1300": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1300"
+    },
+    "1306": {
+        "extract_answer": "dE/dx",
+        "score": 0,
+        "figure_id": "1306"
+    },
+    "1312": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1312"
+    },
+    "1317": {
+        "extract_answer": "Row 1, column a",
+        "score": 0,
+        "figure_id": "1317"
+    },
+    "1320": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1320"
+    },
+    "1326": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1326"
+    },
+    "1329": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1329"
+    },
+    "1332": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1332"
+    },
+    "1336": {
+        "extracted_answer": "simulated microlensing",
+        "score": 1,
+        "figure_id": "1336"
+    },
+    "1342": {
+        "extract_answer": "Third",
+        "score": 1,
+        "figure_id": "1342"
+    },
+    "1345": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "1345"
+    },
+    "1348": {
+        "extracted_answer": "Transverse \u03c4p",
+        "score": 1,
+        "figure_id": "1348"
+    },
+    "1352": {
+        "extracted_answer": "Infalling Galaxies, Backsplash Galaxies",
+        "score": 0,
+        "figure_id": "1352"
+    },
+    "1360": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1360"
+    },
+    "1369": {
+        "extracted_answer": "(b)",
+        "score": 0,
+        "figure_id": "1369"
+    },
+    "1374": {
+        "extracted_answer": "(d) g=0.05",
+        "score": 1,
+        "figure_id": "1374"
+    },
+    "1378": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "1378"
+    },
+    "1381": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1381"
+    },
+    "1387": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1387"
+    },
+    "1393": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1393"
+    },
+    "1399": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1399"
+    },
+    "1402": {
+        "extracted_answer": "1.5",
+        "score": 0,
+        "figure_id": "1402"
+    },
+    "1406": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1406"
+    },
+    "1408": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1408"
+    },
+    "1413": {
+        "extracted_answer": "6",
+        "score": 0,
+        "figure_id": "1413"
+    },
+    "1416": {
+        "extracted_answer": "0-20",
+        "score": 0,
+        "figure_id": "1416"
+    },
+    "1419": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1419"
+    },
+    "1425": {
+        "extracted_answer": "0.8",
+        "score": 0,
+        "figure_id": "1425"
+    },
+    "1431": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1431"
+    },
+    "1435": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1435"
+    },
+    "1438": {
+        "extracted_answer": "(b)",
+        "score": 1,
+        "figure_id": "1438"
+    },
+    "1441": {
+        "extracted_answer": "BeEST, DUNE, HUNTER, KATRIN, TR",
+        "score": 0,
+        "figure_id": "1441"
+    },
+    "1449": {
+        "extracted_answer": "2.7",
+        "score": 0,
+        "figure_id": "1449"
+    },
+    "1455": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "1455"
+    },
+    "1461": {
+        "extracted_answer": "B",
+        "score": 1,
+        "figure_id": "1461"
+    },
+    "1463": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1463"
+    },
+    "1469": {
+        "extracted_answer": "decrease",
+        "score": 1,
+        "figure_id": "1469"
+    },
+    "1472": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1472"
+    },
+    "1474": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "1474"
+    },
+    "1481": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "1481"
+    },
+    "1489": {
+        "extracted_answer": "225",
+        "score": 0,
+        "figure_id": "1489"
+    },
+    "1493": {
+        "extracted_answer": "(f)",
+        "score": 1,
+        "figure_id": "1493"
+    },
+    "1495": {
+        "extract_answer": "3",
+        "score": 0,
+        "figure_id": "1495"
+    },
+    "1498": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1498"
+    },
+    "1503": {
+        "extract_answer": "S01",
+        "score": 0,
+        "figure_id": "1503"
+    },
+    "1511": {
+        "extracted_answer": "0.5",
+        "score": 0,
+        "figure_id": "1511"
+    },
+    "1519": {
+        "extracted_answer": "2/29",
+        "score": 0,
+        "figure_id": "1519"
+    },
+    "1521": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1521"
+    },
+    "1524": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1524"
+    },
+    "1532": {
+        "extracted_answer": "Age",
+        "score": 0,
+        "figure_id": "1532"
+    },
+    "1536": {
+        "extract_answer": "A",
+        "score": 1,
+        "figure_id": "1536"
+    },
+    "1544": {
+        "extracted_answer": "September",
+        "score": 1,
+        "figure_id": "1544"
+    },
+    "1555": {
+        "extract_answer": "No",
+        "score": 1,
+        "figure_id": "1555"
+    },
+    "1558": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1558"
+    },
+    "1563": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1563"
+    },
+    "1568": {
+        "extracted_answer": "L2 loss",
+        "score": 0,
+        "figure_id": "1568"
+    },
+    "1570": {
+        "extracted_answer": "DMPNN single",
+        "score": 0,
+        "figure_id": "1570"
+    },
+    "1575": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1575"
+    },
+    "1581": {
+        "extracted_answer": "decreasing",
+        "score": 0,
+        "figure_id": "1581"
+    },
+    "1583": {
+        "extracted_answer": "RZiMM-scRNA, RZiMM-Naive",
+        "score": 0,
+        "figure_id": "1583"
+    },
+    "1585": {
+        "extracted_answer": "Beta",
+        "score": 0,
+        "figure_id": "1585"
+    },
+    "1589": {
+        "extracted_answer": "Anterior Motion",
+        "score": 0,
+        "figure_id": "1589"
+    },
+    "1591": {
+        "extracted_answer": "TYKS",
+        "score": 0,
+        "figure_id": "1591"
+    },
+    "1595": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1595"
+    },
+    "1600": {
+        "extracted_answer": "Dimension Zero",
+        "score": 1,
+        "figure_id": "1600"
+    },
+    "1603": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1603"
+    },
+    "1607": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "1607"
+    },
+    "1609": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "1609"
+    },
+    "1613": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1613"
+    },
+    "1618": {
+        "extracted_answer": "e",
+        "score": 1,
+        "figure_id": "1618"
+    },
+    "1624": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1624"
+    },
+    "1628": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1628"
+    },
+    "1634": {
+        "extracted_answer": "Naive Bayes",
+        "score": 0,
+        "figure_id": "1634"
+    },
+    "1643": {
+        "extracted_answer": "A(t) MFL",
+        "score": 0,
+        "figure_id": "1643"
+    },
+    "1646": {
+        "extracted_answer": "(a)",
+        "score": 1,
+        "figure_id": "1646"
+    },
+    "1650": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "1650"
+    },
+    "1653": {
+        "extracted_answer": "AAV",
+        "score": 1,
+        "figure_id": "1653"
+    },
+    "1658": {
+        "extracted_answer": "r1",
+        "score": 1,
+        "figure_id": "1658"
+    },
+    "1661": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1661"
+    },
+    "1664": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1664"
+    },
+    "1671": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "1671"
+    },
+    "1673": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1673"
+    },
+    "1677": {
+        "extracted_answer": "Higher",
+        "score": 1,
+        "figure_id": "1677"
+    },
+    "1682": {
+        "extract_answer": "A_E, A_I",
+        "score": 0,
+        "figure_id": "1682"
+    },
+    "1686": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1686"
+    },
+    "1689": {
+        "extracted_answer": "optimized",
+        "score": 0,
+        "figure_id": "1689"
+    },
+    "1692": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1692"
+    },
+    "1695": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1695"
+    },
+    "1699": {
+        "extract_answer": "15.6",
+        "score": 0,
+        "figure_id": "1699"
+    },
+    "1702": {
+        "extract_answer": "increases",
+        "score": 1,
+        "figure_id": "1702"
+    },
+    "1705": {
+        "extracted_answer": "CA-CA distance",
+        "score": 0,
+        "figure_id": "1705"
+    },
+    "1707": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1707"
+    },
+    "1717": {
+        "extracted_answer": "Poisson",
+        "score": 1,
+        "figure_id": "1717"
+    },
+    "1722": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "1722"
+    },
+    "1726": {
+        "extracted_answer": "[12, 1]",
+        "score": 0,
+        "figure_id": "1726"
+    },
+    "1733": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1733"
+    },
+    "1739": {
+        "extracted_answer": "8",
+        "score": 0,
+        "figure_id": "1739"
+    },
+    "1754": {
+        "extracted_answer": "Cycling",
+        "score": 0,
+        "figure_id": "1754"
+    },
+    "1762": {
+        "extracted_answer": "Berlin",
+        "score": 0,
+        "figure_id": "1762"
+    },
+    "1765": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1765"
+    },
+    "1770": {
+        "extracted_answer": "UXM",
+        "score": 0,
+        "figure_id": "1770"
+    },
+    "1774": {
+        "extract_answer": "Decreasing",
+        "score": 1,
+        "figure_id": "1774"
+    },
+    "1785": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1785"
+    },
+    "1788": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1788"
+    },
+    "1790": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "1790"
+    },
+    "1793": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1793"
+    },
+    "1797": {
+        "extracted_answer": "Temperature",
+        "score": 1,
+        "figure_id": "1797"
+    },
+    "1811": {
+        "extracted_answer": "Increasing",
+        "score": 1,
+        "figure_id": "1811"
+    },
+    "1818": {
+        "extracted_answer": "Train",
+        "score": 1,
+        "figure_id": "1818"
+    },
+    "1822": {
+        "extracted_answer": "beta",
+        "score": 0,
+        "figure_id": "1822"
+    },
+    "1827": {
+        "extracted_answer": "July 3rd",
+        "score": 0,
+        "figure_id": "1827"
+    },
+    "1837": {
+        "extracted_answer": "0",
+        "score": 0,
+        "figure_id": "1837"
+    },
+    "1841": {
+        "extracted_answer": "0.73",
+        "score": 1,
+        "figure_id": "1841"
+    },
+    "1843": {
+        "extracted_answer": "Infeasible",
+        "score": 0,
+        "figure_id": "1843"
+    },
+    "1845": {
+        "extracted_answer": "l=300000,m=30",
+        "score": 0,
+        "figure_id": "1845"
+    },
+    "1851": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1851"
+    },
+    "1853": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1853"
+    },
+    "1856": {
+        "extracted_answer": "1998",
+        "score": 0,
+        "figure_id": "1856"
+    },
+    "1860": {
+        "extracted_answer": "CC daily 9.30AM",
+        "score": 1,
+        "figure_id": "1860"
+    },
+    "1862": {
+        "extracted_answer": "11",
+        "score": 0,
+        "figure_id": "1862"
+    },
+    "1865": {
+        "extracted_answer": "0",
+        "score": 0,
+        "figure_id": "1865"
+    },
+    "1873": {
+        "extracted_answer": "Basic Materials",
+        "score": 0,
+        "figure_id": "1873"
+    },
+    "1884": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1884"
+    },
+    "1887": {
+        "extracted_answer": "ITM Options, DITM Options",
+        "score": 0,
+        "figure_id": "1887"
+    },
+    "1897": {
+        "extract_answer": "fc1",
+        "score": 1,
+        "figure_id": "1897"
+    },
+    "1900": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1900"
+    },
+    "1902": {
+        "extracted_answer": "Wind parks North",
+        "score": 1,
+        "figure_id": "1902"
+    },
+    "1908": {
+        "extracted_answer": "Lower",
+        "score": 0,
+        "figure_id": "1908"
+    },
+    "1913": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "1913"
+    },
+    "1915": {
+        "extracted_answer": "2006",
+        "score": 0,
+        "figure_id": "1915"
+    },
+    "1917": {
+        "extracted_answer": "No",
+        "score": 0,
+        "figure_id": "1917"
+    },
+    "1921": {
+        "extracted_answer": "Miscellanea (Other)",
+        "score": 0,
+        "figure_id": "1921"
+    },
+    "1925": {
+        "extracted_answer": "Selective Binary",
+        "score": 1,
+        "figure_id": "1925"
+    },
+    "1932": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1932"
+    },
+    "1939": {
+        "extracted_answer": "40",
+        "score": 0,
+        "figure_id": "1939"
+    },
+    "1941": {
+        "extracted_answer": "MA",
+        "score": 0,
+        "figure_id": "1941"
+    },
+    "1946": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1946"
+    },
+    "1953": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1953"
+    },
+    "1955": {
+        "extracted_answer": "RSAC",
+        "score": 1,
+        "figure_id": "1955"
+    },
+    "1959": {
+        "extracted_answer": "Redundancy",
+        "score": 0,
+        "figure_id": "1959"
+    },
+    "1965": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1965"
+    },
+    "1969": {
+        "extract_answer": "Negatively",
+        "score": 1,
+        "figure_id": "1969"
+    },
+    "1971": {
+        "extracted_answer": "B1, B2, B3, B4",
+        "score": 0,
+        "figure_id": "1971"
+    },
+    "1974": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1974"
+    },
+    "1980": {
+        "extracted_answer": "Upward",
+        "score": 0,
+        "figure_id": "1980"
+    },
+    "1986": {
+        "extracted_answer": "Q3",
+        "score": 0,
+        "figure_id": "1986"
+    },
+    "1993": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1993"
+    },
+    "1998": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1998"
+    },
+    "2000": {
+        "extracted_answer": "w2",
+        "score": 1,
+        "figure_id": "2000"
+    },
+    "2003": {
+        "extracted_answer": "Gamma PDF",
+        "score": 0,
+        "figure_id": "2003"
+    },
+    "2005": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2005"
+    },
+    "2010": {
+        "extracted_answer": "10/25",
+        "score": 1,
+        "figure_id": "2010"
+    },
+    "2018": {
+        "extracted_answer": "10:00",
+        "score": 0,
+        "figure_id": "2018"
+    },
+    "2035": {
+        "extracted_answer": "Decision Tree (DT)",
+        "score": 1,
+        "figure_id": "2035"
+    },
+    "2040": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2040"
+    },
+    "2051": {
+        "extracted_answer": "Rank 1",
+        "score": 0,
+        "figure_id": "2051"
+    },
+    "2055": {
+        "extracted_answer": "DOGE",
+        "score": 1,
+        "figure_id": "2055"
+    },
+    "2059": {
+        "extracted_answer": "11",
+        "score": 0,
+        "figure_id": "2059"
+    },
+    "2067": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2067"
+    },
+    "2071": {
+        "extracted_answer": "Future prices for 2022-12-16",
+        "score": 0,
+        "figure_id": "2071"
+    },
+    "2075": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2075"
+    },
+    "2081": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2081"
+    },
+    "2083": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "2083"
+    },
+    "2090": {
+        "extracted_answer": "mtl_tsmom",
+        "score": 0,
+        "figure_id": "2090"
+    },
+    "2097": {
+        "extract_answer": "True Process (Xt) t\u2208[0,T]",
+        "score": 1,
+        "figure_id": "2097"
+    },
+    "2105": {
+        "extracted_answer": "RIDGE, Width",
+        "score": 0,
+        "figure_id": "2105"
+    },
+    "2108": {
+        "extracted_answer": "stability selection",
+        "score": 0,
+        "figure_id": "2108"
+    },
+    "2114": {
+        "extracted_answer": "FWC",
+        "score": 1,
+        "figure_id": "2114"
+    },
+    "2122": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2122"
+    },
+    "2127": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "2127"
+    },
+    "2130": {
+        "extracted_answer": "CS-sigmoid",
+        "score": 0,
+        "figure_id": "2130"
+    },
+    "2136": {
+        "extracted_answer": "0.8, 0.9",
+        "score": 0,
+        "figure_id": "2136"
+    },
+    "2140": {
+        "extracted_answer": "Dragon",
+        "score": 0,
+        "figure_id": "2140"
+    },
+    "2147": {
+        "extracted_answer": "S_2",
+        "score": 1,
+        "figure_id": "2147"
+    },
+    "2149": {
+        "extracted_answer": "PPL",
+        "score": 0,
+        "figure_id": "2149"
+    },
+    "2152": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "2152"
+    },
+    "2158": {
+        "extracted_answer": "13",
+        "score": 0,
+        "figure_id": "2158"
+    },
+    "2167": {
+        "extract_answer": "Orthodox",
+        "score": 0,
+        "figure_id": "2167"
+    },
+    "2179": {
+        "extracted_answer": "missForest",
+        "score": 0,
+        "figure_id": "2179"
+    },
+    "2187": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "2187"
+    },
+    "2191": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2191"
+    },
+    "2194": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "2194"
+    },
+    "2198": {
+        "extracted_answer": "Protein",
+        "score": 0,
+        "figure_id": "2198"
+    },
+    "2201": {
+        "extracted_answer": "0.05",
+        "score": 0,
+        "figure_id": "2201"
+    },
+    "2208": {
+        "extracted_answer": "0",
+        "score": 0,
+        "figure_id": "2208"
+    },
+    "2211": {
+        "extracted_answer": "DRSK",
+        "score": 0,
+        "figure_id": "2211"
+    },
+    "2223": {
+        "extracted_answer": "0",
+        "score": 0,
+        "figure_id": "2223"
+    },
+    "2234": {
+        "extracted_answer": "Men",
+        "score": 1,
+        "figure_id": "2234"
+    },
+    "2238": {
+        "extracted_answer": "(iii)",
+        "score": 0,
+        "figure_id": "2238"
+    },
+    "2242": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "2242"
+    },
+    "2245": {
+        "extracted_answer": "Executive function",
+        "score": 1,
+        "figure_id": "2245"
+    },
+    "2252": {
+        "extracted_answer": "GSVGD",
+        "score": 1,
+        "figure_id": "2252"
+    },
+    "2261": {
+        "extracted_answer": "Nadaraya-Watson",
+        "score": 0,
+        "figure_id": "2261"
+    },
+    "2267": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2267"
+    },
+    "2271": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2271"
+    },
+    "2279": {
+        "extracted_answer": "Orientation precision",
+        "score": 0,
+        "figure_id": "2279"
+    },
+    "2287": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "2287"
+    },
+    "2289": {
+        "extract_answer": "Kendall, Distance",
+        "score": 0,
+        "figure_id": "2289"
+    },
+    "2291": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2291"
+    },
+    "2294": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2294"
+    },
+    "2299": {
+        "extracted_answer": "cKnockoff",
+        "score": 0,
+        "figure_id": "2299"
+    },
+    "2309": {
+        "extracted_answer": "TS",
+        "score": 0,
+        "figure_id": "2309"
+    },
+    "2313": {
+        "extracted_answer": "USPS",
+        "score": 0,
+        "figure_id": "2313"
+    },
+    "2317": {
+        "extracted_answer": "TNN-DCT",
+        "score": 0,
+        "figure_id": "2317"
+    },
+    "2323": {
+        "extract_answer": "South",
+        "score": 0,
+        "figure_id": "2323"
+    },
+    "2329": {
+        "extracted_answer": "159",
+        "score": 0,
+        "figure_id": "2329"
+    },
+    "2335": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2335"
+    },
+    "2338": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "2338"
+    },
+    "2343": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2343"
+    },
+    "2347": {
+        "extracted_answer": "20",
+        "score": 0,
+        "figure_id": "2347"
+    },
+    "2357": {
+        "extracted_answer": "3346",
+        "score": 0,
+        "figure_id": "2357"
+    },
+    "2360": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "2360"
+    },
+    "2362": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2362"
+    },
+    "2366": {
+        "extracted_answer": "2021-04-01",
+        "score": 0,
+        "figure_id": "2366"
+    },
+    "2372": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "2372"
+    },
+    "2375": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "2375"
+    },
+    "2379": {
+        "extracted_answer": "16:00",
+        "score": 0,
+        "figure_id": "2379"
+    },
+    "2381": {
+        "extracted_answer": "Female Sterilization",
+        "score": 0,
+        "figure_id": "2381"
+    },
+    "2390": {
+        "extracted_answer": "RSCUSUM",
+        "score": 1,
+        "figure_id": "2390"
+    },
+    "2394": {
+        "extracted_answer": "600",
+        "score": 0,
+        "figure_id": "2394"
+    },
+    "2398": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2398"
+    },
+    "2": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "2"
+    },
+    "5": {
+        "extracted_answer": "(d)",
+        "score": 0,
+        "figure_id": "5"
+    },
+    "8": {
+        "extracted_answer": "JeVois (408MHz)",
+        "score": 1,
+        "figure_id": "8"
+    },
+    "13": {
+        "extract_answer": "UNIFORM (CE, MSE)",
+        "score": 0,
+        "figure_id": "13"
+    },
+    "17": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "17"
+    },
+    "21": {
+        "extract_answer": "obj, nsubj",
+        "score": 0,
+        "figure_id": "21"
+    },
+    "27": {
+        "extracted_answer": "reward scale = 10",
+        "score": 1,
+        "figure_id": "27"
+    },
+    "30": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "30"
+    },
+    "39": {
+        "extract_answer": "top cluster",
+        "score": 0,
+        "figure_id": "39"
+    },
+    "41": {
+        "extracted_answer": "LRA",
+        "score": 1,
+        "figure_id": "41"
+    },
+    "48": {
+        "extracted_answer": "Lab",
+        "score": 0,
+        "figure_id": "48"
+    },
+    "51": {
+        "extracted_answer": "EfficientNet-B5",
+        "score": 1,
+        "figure_id": "51"
+    },
+    "56": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "56"
+    },
+    "60": {
+        "extracted_answer": "Rank1",
+        "score": 0,
+        "figure_id": "60"
+    },
+    "62": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "62"
+    },
+    "68": {
+        "extracted_answer": "(a)",
+        "score": 0,
+        "figure_id": "68"
+    },
+    "80": {
+        "extracted_answer": "4",
+        "score": 1,
+        "figure_id": "80"
+    },
+    "83": {
+        "extracted_answer": "LH1 C.B. Ext. Motion, LH2 C.B. Ext",
+        "score": 0,
+        "figure_id": "83"
+    },
+    "86": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "86"
+    },
+    "88": {
+        "extracted_answer": "99.1",
+        "score": 0,
+        "figure_id": "88"
+    },
+    "95": {
+        "extracted_answer": "Singular",
+        "score": 0,
+        "figure_id": "95"
+    },
+    "104": {
+        "extracted_answer": "ArcFace",
+        "score": 1,
+        "figure_id": "104"
+    },
+    "107": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "107"
+    },
+    "110": {
+        "extracted_answer": "Subplot 2",
+        "score": 0,
+        "figure_id": "110"
+    },
+    "113": {
+        "extracted_answer": "ShapeWorld, Birds",
+        "score": 0,
+        "figure_id": "113"
+    },
+    "125": {
+        "extracted_answer": "0",
+        "score": 0,
+        "figure_id": "125"
+    },
+    "132": {
+        "extracted_answer": "100",
+        "score": 1,
+        "figure_id": "132"
+    },
+    "135": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "135"
+    },
+    "144": {
+        "extracted_answer": "XLA",
+        "score": 0,
+        "figure_id": "144"
+    },
+    "146": {
+        "extracted_answer": "Non-IID (50%)",
+        "score": 0,
+        "figure_id": "146"
+    },
+    "149": {
+        "extracted_answer": "Read (SSD)",
+        "score": 0,
+        "figure_id": "149"
+    },
+    "154": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "154"
+    },
+    "157": {
+        "extracted_answer": "H3_conc",
+        "score": 1,
+        "figure_id": "157"
+    },
+    "160": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "160"
+    },
+    "167": {
+        "extracted_answer": "INSTA-BNN+",
+        "score": 0,
+        "figure_id": "167"
+    },
+    "172": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "172"
+    },
+    "177": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "177"
+    },
+    "180": {
+        "extracted_answer": "Phone",
+        "score": 0,
+        "figure_id": "180"
+    },
+    "183": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "183"
+    },
+    "195": {
+        "extracted_answer": "MNIST",
+        "score": 0,
+        "figure_id": "195"
+    },
+    "197": {
+        "extracted_answer": "CIFAR-10",
+        "score": 0,
+        "figure_id": "197"
+    },
+    "210": {
+        "extracted_answer": "Removing Random Objects",
+        "score": 0,
+        "figure_id": "210"
+    },
+    "212": {
+        "extract_answer": "Surgery",
+        "score": 0,
+        "figure_id": "212"
+    },
+    "215": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "215"
+    },
+    "219": {
+        "extract_answer": "Yes",
+        "score": 1,
+        "figure_id": "219"
+    },
+    "225": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "225"
+    },
+    "228": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "228"
+    },
+    "236": {
+        "extracted_answer": "6",
+        "score": 0,
+        "figure_id": "236"
+    },
+    "240": {
+        "extracted_answer": "UC Irvine",
+        "score": 0,
+        "figure_id": "240"
+    },
+    "243": {
+        "extracted_answer": "Online-Fed",
+        "score": 0,
+        "figure_id": "243"
+    },
+    "246": {
+        "extracted_answer": "ResNet-50 baseline",
+        "score": 0,
+        "figure_id": "246"
+    },
+    "248": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "248"
+    },
+    "252": {
+        "extracted_answer": "e",
+        "score": 1,
+        "figure_id": "252"
+    },
+    "256": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "256"
+    },
+    "263": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "263"
+    },
+    "267": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "267"
+    },
+    "269": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "269"
+    },
+    "275": {
+        "extracted_answer": "P10_sandwich",
+        "score": 0,
+        "figure_id": "275"
+    },
+    "281": {
+        "extracted_answer": "First",
+        "score": 0,
+        "figure_id": "281"
+    },
+    "284": {
+        "extracted_answer": "Others",
+        "score": 0,
+        "figure_id": "284"
+    },
+    "286": {
+        "extracted_answer": "100",
+        "score": 0,
+        "figure_id": "286"
+    },
+    "291": {
+        "extracted_answer": "IQL",
+        "score": 0,
+        "figure_id": "291"
+    },
+    "298": {
+        "extracted_answer": "Lower bound",
+        "score": 1,
+        "figure_id": "298"
+    },
+    "306": {
+        "extracted_answer": "0.02",
+        "score": 0,
+        "figure_id": "306"
+    },
+    "311": {
+        "extracted_answer": "Observed",
+        "score": 1,
+        "figure_id": "311"
+    },
+    "314": {
+        "extracted_answer": "T=5, N=500",
+        "score": 1,
+        "figure_id": "314"
+    },
+    "319": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "319"
+    },
+    "323": {
+        "extracted_answer": "PCEPI",
+        "score": 0,
+        "figure_id": "323"
+    },
+    "328": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "328"
+    },
+    "332": {
+        "extracted_answer": "1st",
+        "score": 0,
+        "figure_id": "332"
+    },
+    "334": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "334"
+    },
+    "337": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "337"
+    },
+    "341": {
+        "extracted_answer": "Italy",
+        "score": 0,
+        "figure_id": "341"
+    },
+    "346": {
+        "extracted_answer": "No",
+        "score": 0,
+        "figure_id": "346"
+    },
+    "354": {
+        "extracted_answer": "Solar PV",
+        "score": 1,
+        "figure_id": "354"
+    },
+    "362": {
+        "extracted_answer": "Daily Cases (C)",
+        "score": 0,
+        "figure_id": "362"
+    },
+    "368": {
+        "extracted_answer": "6",
+        "score": 0,
+        "figure_id": "368"
+    },
+    "374": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "374"
+    },
+    "379": {
+        "extracted_answer": "Total Crime Rate",
+        "score": 1,
+        "figure_id": "379"
+    },
+    "389": {
+        "extracted_answer": "Frozen regime",
+        "score": 0,
+        "figure_id": "389"
+    },
+    "394": {
+        "extract_answer": "Air transport",
+        "score": 0,
+        "figure_id": "394"
+    },
+    "399": {
+        "extracted_answer": "Nord-Pas-de-Calais, Picardy",
+        "score": 0,
+        "figure_id": "399"
+    },
+    "406": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "406"
+    },
+    "409": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "409"
+    },
+    "411": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "411"
+    },
+    "413": {
+        "extracted_answer": "CCGT",
+        "score": 0,
+        "figure_id": "413"
+    },
+    "418": {
+        "extracted_answer": "12",
+        "score": 0,
+        "figure_id": "418"
+    },
+    "422": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "422"
+    },
+    "428": {
+        "extracted_answer": "0.2",
+        "score": 0,
+        "figure_id": "428"
+    },
+    "433": {
+        "extract_answer": "No",
+        "score": 1,
+        "figure_id": "433"
+    },
+    "438": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "438"
+    },
+    "445": {
+        "extracted_answer": "Plot C",
+        "score": 0,
+        "figure_id": "445"
+    },
+    "447": {
+        "extracted_answer": "April, May, June, July, August, September, October",
+        "score": 0,
+        "figure_id": "447"
+    },
+    "449": {
+        "extract_answer": "No",
+        "score": 1,
+        "figure_id": "449"
+    },
+    "451": {
+        "extracted_answer": "Argentina",
+        "score": 1,
+        "figure_id": "451"
+    },
+    "453": {
+        "extracted_answer": "Linear",
+        "score": 0,
+        "figure_id": "453"
+    },
+    "461": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "461"
+    },
+    "463": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "463"
+    },
+    "466": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "466"
+    },
+    "470": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "470"
+    },
+    "473": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "473"
+    },
+    "475": {
+        "extracted_answer": "Commodity-Dependence (UN)",
+        "score": 1,
+        "figure_id": "475"
+    },
+    "480": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "480"
+    },
+    "484": {
+        "extracted_answer": "GDP",
+        "score": 0,
+        "figure_id": "484"
+    },
+    "488": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "488"
+    },
+    "493": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "493"
+    },
+    "496": {
+        "extracted_answer": "Responses to an Agg. Demand shock",
+        "score": 0,
+        "figure_id": "496"
+    },
+    "503": {
+        "extracted_answer": "Retail",
+        "score": 1,
+        "figure_id": "503"
+    },
+    "506": {
+        "extracted_answer": "Unique Nash equilibrium",
+        "score": 1,
+        "figure_id": "506"
+    },
+    "509": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "509"
+    },
+    "512": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "512"
+    },
+    "514": {
+        "extracted_answer": "Mar-May 20",
+        "score": 0,
+        "figure_id": "514"
+    },
+    "516": {
+        "extracted_answer": "DynReg",
+        "score": 0,
+        "figure_id": "516"
+    },
+    "521": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "521"
+    },
+    "525": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "525"
+    },
+    "530": {
+        "extracted_answer": "75",
+        "score": 0,
+        "figure_id": "530"
+    },
+    "532": {
+        "extracted_answer": "Natural calcium phosphates",
+        "score": 0,
+        "figure_id": "532"
+    },
+    "537": {
+        "extracted_answer": "2021",
+        "score": 0,
+        "figure_id": "537"
+    },
+    "543": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "543"
+    },
+    "548": {
+        "extracted_answer": "The total number of companies increases rapidly after 2010.",
+        "score": 0,
+        "figure_id": "548"
+    },
+    "552": {
+        "extracted_answer": "the Variance value at Friction parameter of 0.25 is larger",
+        "score": 1,
+        "figure_id": "552"
+    },
+    "559": {
+        "extracted_answer": "Monetary Policy Shock",
+        "score": 0,
+        "figure_id": "559"
+    },
+    "562": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "562"
+    },
+    "568": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "568"
+    },
+    "573": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "573"
+    },
+    "576": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "576"
+    },
+    "580": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "580"
+    },
+    "586": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "586"
+    },
+    "588": {
+        "extracted_answer": "WCU-B",
+        "score": 1,
+        "figure_id": "588"
+    },
+    "591": {
+        "extracted_answer": "observed values X_t",
+        "score": 1,
+        "figure_id": "591"
+    },
+    "593": {
+        "extracted_answer": "Correlation Matrix of Germany",
+        "score": 1,
+        "figure_id": "593"
+    },
+    "598": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "598"
+    },
+    "602": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "602"
+    },
+    "604": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "604"
+    },
+    "608": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "608"
+    },
+    "617": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "617"
+    },
+    "625": {
+        "extracted_answer": "decreases",
+        "score": 0,
+        "figure_id": "625"
+    },
+    "629": {
+        "extracted_answer": "Slice 1",
+        "score": 0,
+        "figure_id": "629"
+    },
+    "634": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "634"
+    },
+    "638": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "638"
+    },
+    "640": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "640"
+    },
+    "646": {
+        "extracted_answer": "MV",
+        "score": 0,
+        "figure_id": "646"
+    },
+    "650": {
+        "extracted_answer": "5",
+        "score": 1,
+        "figure_id": "650"
+    },
+    "655": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "655"
+    },
+    "658": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "658"
+    },
+    "660": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "660"
+    },
+    "662": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "662"
+    },
+    "668": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "668"
+    },
+    "671": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "671"
+    },
+    "677": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "677"
+    },
+    "679": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "679"
+    },
+    "684": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "684"
+    },
+    "690": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "690"
+    },
+    "693": {
+        "extracted_answer": "MPC-MF",
+        "score": 0,
+        "figure_id": "693"
+    },
+    "695": {
+        "extracted_answer": "Graph (b), Stage 6",
+        "score": 0,
+        "figure_id": "695"
+    },
+    "699": {
+        "extracted_answer": "Perfect estimation",
+        "score": 0,
+        "figure_id": "699"
+    },
+    "702": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "702"
+    },
+    "705": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "705"
+    },
+    "708": {
+        "extract_answer": "lower",
+        "score": 1,
+        "figure_id": "708"
+    },
+    "712": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "712"
+    },
+    "716": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "716"
+    },
+    "723": {
+        "extracted_answer": "FMAS",
+        "score": 1,
+        "figure_id": "723"
+    },
+    "727": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "727"
+    },
+    "732": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "732"
+    },
+    "739": {
+        "extracted_answer": "Proposed",
+        "score": 1,
+        "figure_id": "739"
+    },
+    "744": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "744"
+    },
+    "749": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "749"
+    },
+    "756": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "756"
+    },
+    "764": {
+        "extracted_answer": "second-order Butterworth filter (y2)",
+        "score": 0,
+        "figure_id": "764"
+    },
+    "770": {
+        "extract_answer": "Females are older on average",
+        "score": 1,
+        "figure_id": "770"
+    },
+    "777": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "777"
+    },
+    "782": {
+        "extracted_answer": "L2, CPM, GMcos",
+        "score": 0,
+        "figure_id": "782"
+    },
+    "787": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "787"
+    },
+    "802": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "802"
+    },
+    "805": {
+        "extracted_answer": "No",
+        "score": 1,
+        "figure_id": "805"
+    },
+    "810": {
+        "extracted_answer": "StructNet",
+        "score": 0,
+        "figure_id": "810"
+    },
+    "813": {
+        "extract_answer": "[20, 25]",
+        "score": 0,
+        "figure_id": "813"
+    },
+    "822": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "822"
+    },
+    "824": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "824"
+    },
+    "840": {
+        "extracted_answer": "N=5",
+        "score": 0,
+        "figure_id": "840"
+    },
+    "844": {
+        "extracted_answer": "Grid Utilities",
+        "score": 0,
+        "figure_id": "844"
+    },
+    "848": {
+        "extracted_answer": "2GD",
+        "score": 0,
+        "figure_id": "848"
+    },
+    "852": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "852"
+    },
+    "860": {
+        "extracted_answer": "C^1",
+        "score": 0,
+        "figure_id": "860"
+    },
+    "863": {
+        "extracted_answer": "VarianceFlow, \u03c3=0.667, +Encoder Dropout",
+        "score": 1,
+        "figure_id": "863"
+    },
+    "872": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "872"
+    },
+    "877": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "877"
+    },
+    "880": {
+        "extracted_answer": "06_FWA",
+        "score": 0,
+        "figure_id": "880"
+    },
+    "888": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "888"
+    },
+    "891": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "891"
+    },
+    "894": {
+        "extracted_answer": "c",
+        "score": 1,
+        "figure_id": "894"
+    },
+    "900": {
+        "extracted_answer": "0.2",
+        "score": 1,
+        "figure_id": "900"
+    },
+    "903": {
+        "extracted_answer": "Minimum-Risk + Loss",
+        "score": 0,
+        "figure_id": "903"
+    },
+    "907": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "907"
+    },
+    "910": {
+        "extracted_answer": "blue line",
+        "score": 0,
+        "figure_id": "910"
+    },
+    "913": {
+        "extracted_answer": "0.5",
+        "score": 0,
+        "figure_id": "913"
+    },
+    "920": {
+        "extracted_answer": "increasing",
+        "score": 0,
+        "figure_id": "920"
+    },
+    "924": {
+        "extract_answer": "MLNN",
+        "score": 1,
+        "figure_id": "924"
+    },
+    "927": {
+        "extracted_answer": "RanNLR-ASVRG (N=1000",
+        "score": 0,
+        "figure_id": "927"
+    },
+    "930": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "930"
+    },
+    "932": {
+        "extracted_answer": "MaSEGM",
+        "score": 0,
+        "figure_id": "932"
+    },
+    "936": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "936"
+    },
+    "938": {
+        "extracted_answer": "0.0",
+        "score": 0,
+        "figure_id": "938"
+    },
+    "946": {
+        "extract_answer": "Subplots 2 and 3",
+        "score": 0,
+        "figure_id": "946"
+    },
+    "952": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "952"
+    },
+    "954": {
+        "extracted_answer": "No",
+        "score": 0,
+        "figure_id": "954"
+    },
+    "962": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "962"
+    },
+    "965": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "965"
+    },
+    "967": {
+        "extracted_answer": "c)",
+        "score": 1,
+        "figure_id": "967"
+    },
+    "971": {
+        "extracted_answer": "SDP-AR(1), OLFC-50",
+        "score": 0,
+        "figure_id": "971"
+    },
+    "975": {
+        "extracted_answer": "red",
+        "score": 0,
+        "figure_id": "975"
+    },
+    "985": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "985"
+    },
+    "987": {
+        "extracted_answer": "s_1",
+        "score": 0,
+        "figure_id": "987"
+    },
+    "991": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "991"
+    },
+    "996": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "996"
+    },
+    "1002": {
+        "extract_answer": "decreasing",
+        "score": 0,
+        "figure_id": "1002"
+    },
+    "1006": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1006"
+    },
+    "1008": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1008"
+    },
+    "1010": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1010"
+    },
+    "1012": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1012"
+    },
+    "1022": {
+        "extracted_answer": "with singularity treatment",
+        "score": 1,
+        "figure_id": "1022"
+    },
+    "1027": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1027"
+    },
+    "1030": {
+        "extract_answer": "Left",
+        "score": 1,
+        "figure_id": "1030"
+    },
+    "1034": {
+        "extract_answer": "d",
+        "score": 0,
+        "figure_id": "1034"
+    },
+    "1036": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "1036"
+    },
+    "1039": {
+        "extracted_answer": "Increasing",
+        "score": 1,
+        "figure_id": "1039"
+    },
+    "1043": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1043"
+    },
+    "1046": {
+        "extracted_answer": "Vanilla SZO, LF-SZO",
+        "score": 0,
+        "figure_id": "1046"
+    },
+    "1051": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1051"
+    },
+    "1060": {
+        "extracted_answer": "12",
+        "score": 1,
+        "figure_id": "1060"
+    },
+    "1071": {
+        "extract_answer": "b",
+        "score": 0,
+        "figure_id": "1071"
+    },
+    "1074": {
+        "extracted_answer": "decreases",
+        "score": 1,
+        "figure_id": "1074"
+    },
+    "1081": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "1081"
+    },
+    "1085": {
+        "extract_answer": "Yes",
+        "score": 0,
+        "figure_id": "1085"
+    },
+    "1096": {
+        "extracted_answer": "P0",
+        "score": 0,
+        "figure_id": "1096"
+    },
+    "1102": {
+        "extracted_answer": "Curve 4",
+        "score": 0,
+        "figure_id": "1102"
+    },
+    "1106": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1106"
+    },
+    "1112": {
+        "extracted_answer": "100",
+        "score": 0,
+        "figure_id": "1112"
+    },
+    "1117": {
+        "extract_answer": "Shubert 2D",
+        "score": 0,
+        "figure_id": "1117"
+    },
+    "1123": {
+        "extracted_answer": "(f)",
+        "score": 1,
+        "figure_id": "1123"
+    },
+    "1125": {
+        "extracted_answer": "the one labeled",
+        "score": 0,
+        "figure_id": "1125"
+    },
+    "1130": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1130"
+    },
+    "1132": {
+        "extracted_answer": "0.1",
+        "score": 1,
+        "figure_id": "1132"
+    },
+    "1137": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "1137"
+    },
+    "1141": {
+        "extract_answer": "\u03c9z",
+        "score": 1,
+        "figure_id": "1141"
+    },
+    "1144": {
+        "extracted_answer": "0.4",
+        "score": 0,
+        "figure_id": "1144"
+    },
+    "1147": {
+        "extracted_answer": "Narrow FOV",
+        "score": 1,
+        "figure_id": "1147"
+    },
+    "1153": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1153"
+    },
+    "1160": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1160"
+    },
+    "1169": {
+        "extracted_answer": "26",
+        "score": 0,
+        "figure_id": "1169"
+    },
+    "1172": {
+        "extracted_answer": "2022-08-18",
+        "score": 1,
+        "figure_id": "1172"
+    },
+    "1175": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1175"
+    },
+    "1179": {
+        "extracted_answer": "steeper",
+        "score": 1,
+        "figure_id": "1179"
+    },
+    "1182": {
+        "extracted_answer": "increases",
+        "score": 0,
+        "figure_id": "1182"
+    },
+    "1184": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1184"
+    },
+    "1186": {
+        "extracted_answer": "100",
+        "score": 1,
+        "figure_id": "1186"
+    },
+    "1190": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1190"
+    },
+    "1196": {
+        "extracted_answer": "1024",
+        "score": 0,
+        "figure_id": "1196"
+    },
+    "1199": {
+        "extract_answer": "u_r",
+        "score": 0,
+        "figure_id": "1199"
+    },
+    "1208": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "1208"
+    },
+    "1211": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1211"
+    },
+    "1219": {
+        "extract_answer": "No",
+        "score": 1,
+        "figure_id": "1219"
+    },
+    "1223": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1223"
+    },
+    "1225": {
+        "extracted_answer": "Subaru M31",
+        "score": 1,
+        "figure_id": "1225"
+    },
+    "1231": {
+        "extracted_answer": "(c)",
+        "score": 1,
+        "figure_id": "1231"
+    },
+    "1235": {
+        "extracted_answer": "0.0",
+        "score": 1,
+        "figure_id": "1235"
+    },
+    "1241": {
+        "extracted_answer": "NaI",
+        "score": 0,
+        "figure_id": "1241"
+    },
+    "1248": {
+        "extract_answer": "Below",
+        "score": 0,
+        "figure_id": "1248"
+    },
+    "1253": {
+        "extract_answer": "293",
+        "score": 0,
+        "figure_id": "1253"
+    },
+    "1259": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1259"
+    },
+    "1262": {
+        "extracted_answer": "Yes",
+        "score": 1,
+        "figure_id": "1262"
+    },
+    "1266": {
+        "extracted_answer": "Positive",
+        "score": 1,
+        "figure_id": "1266"
+    },
+    "1268": {
+        "extracted_answer": "Merger",
+        "score": 0,
+        "figure_id": "1268"
+    },
+    "1275": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1275"
+    },
+    "1284": {
+        "extracted_answer": "Model 5",
+        "score": 0,
+        "figure_id": "1284"
+    },
+    "1287": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1287"
+    },
+    "1289": {
+        "extracted_answer": "Sersic index n",
+        "score": 1,
+        "figure_id": "1289"
+    },
+    "1295": {
+        "extract_answer": "480",
+        "score": 0,
+        "figure_id": "1295"
+    },
+    "1298": {
+        "extracted_answer": "Momentum Paths",
+        "score": 0,
+        "figure_id": "1298"
+    },
+    "1305": {
+        "extract_answer": "with QI",
+        "score": 1,
+        "figure_id": "1305"
+    },
+    "1307": {
+        "extracted_answer": "CASE2",
+        "score": 0,
+        "figure_id": "1307"
+    },
+    "1314": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1314"
+    },
+    "1318": {
+        "extracted_answer": "Microlensing (Close-Wide)",
+        "score": 0,
+        "figure_id": "1318"
+    },
+    "1322": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1322"
+    },
+    "1327": {
+        "extracted_answer": "Model B",
+        "score": 0,
+        "figure_id": "1327"
+    },
+    "1330": {
+        "extracted_answer": "The first chart",
+        "score": 1,
+        "figure_id": "1330"
+    },
+    "1334": {
+        "extracted_answer": "hot Jupiters",
+        "score": 1,
+        "figure_id": "1334"
+    },
+    "1339": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1339"
+    },
+    "1343": {
+        "extracted_answer": "0",
+        "score": 1,
+        "figure_id": "1343"
+    },
+    "1346": {
+        "extracted_answer": "Companion Star",
+        "score": 1,
+        "figure_id": "1346"
+    },
+    "1351": {
+        "extracted_answer": "I",
+        "score": 1,
+        "figure_id": "1351"
+    },
+    "1353": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1353"
+    },
+    "1363": {
+        "extracted_answer": "0.4",
+        "score": 0,
+        "figure_id": "1363"
+    },
+    "1373": {
+        "extract_answer": "Increasing",
+        "score": 0,
+        "figure_id": "1373"
+    },
+    "1375": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "1375"
+    },
+    "1379": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1379"
+    },
+    "1386": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1386"
+    },
+    "1391": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1391"
+    },
+    "1397": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1397"
+    },
+    "1401": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1401"
+    },
+    "1405": {
+        "extracted_answer": "16,00",
+        "score": 0,
+        "figure_id": "1405"
+    },
+    "1407": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1407"
+    },
+    "1409": {
+        "extracted_answer": "0.83",
+        "score": 0,
+        "figure_id": "1409"
+    },
+    "1415": {
+        "extract_answer": "z=20",
+        "score": 0,
+        "figure_id": "1415"
+    },
+    "1417": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1417"
+    },
+    "1421": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1421"
+    },
+    "1426": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1426"
+    },
+    "1432": {
+        "extracted_answer": "F",
+        "score": 0,
+        "figure_id": "1432"
+    },
+    "1437": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1437"
+    },
+    "1439": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1439"
+    },
+    "1444": {
+        "extracted_answer": "LO+rel LOBK",
+        "score": 1,
+        "figure_id": "1444"
+    },
+    "1454": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1454"
+    },
+    "1456": {
+        "extracted_answer": "Less",
+        "score": 0,
+        "figure_id": "1456"
+    },
+    "1462": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1462"
+    },
+    "1464": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1464"
+    },
+    "1470": {
+        "extracted_answer": "R=0.7\u00c5",
+        "score": 0,
+        "figure_id": "1470"
+    },
+    "1473": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1473"
+    },
+    "1475": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1475"
+    },
+    "1485": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1485"
+    },
+    "1490": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1490"
+    },
+    "1494": {
+        "extracted_answer": "Delta E_c (1)",
+        "score": 0,
+        "figure_id": "1494"
+    },
+    "1496": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1496"
+    },
+    "1501": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1501"
+    },
+    "1505": {
+        "extracted_answer": "G-proteins",
+        "score": 1,
+        "figure_id": "1505"
+    },
+    "1514": {
+        "extracted_answer": "0",
+        "score": 0,
+        "figure_id": "1514"
+    },
+    "1520": {
+        "extracted_answer": "Negative",
+        "score": 1,
+        "figure_id": "1520"
+    },
+    "1523": {
+        "extracted_answer": "Phase 1",
+        "score": 0,
+        "figure_id": "1523"
+    },
+    "1531": {
+        "extracted_answer": "Clostridium difficile",
+        "score": 0,
+        "figure_id": "1531"
+    },
+    "1533": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1533"
+    },
+    "1542": {
+        "extracted_answer": "0.2",
+        "score": 0,
+        "figure_id": "1542"
+    },
+    "1554": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1554"
+    },
+    "1557": {
+        "extract_answer": "South Korea",
+        "score": 0,
+        "figure_id": "1557"
+    },
+    "1559": {
+        "extracted_answer": "0.2",
+        "score": 0,
+        "figure_id": "1559"
+    },
+    "1566": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1566"
+    },
+    "1569": {
+        "extracted_answer": "Turing-Hopf Pattern",
+        "score": 0,
+        "figure_id": "1569"
+    },
+    "1573": {
+        "extracted_answer": "0-9",
+        "score": 0,
+        "figure_id": "1573"
+    },
+    "1580": {
+        "extracted_answer": "LIA, RIA",
+        "score": 0,
+        "figure_id": "1580"
+    },
+    "1582": {
+        "extracted_answer": "Experiment Results on R2 dataset",
+        "score": 0,
+        "figure_id": "1582"
+    },
+    "1584": {
+        "extracted_answer": "F_neut",
+        "score": 1,
+        "figure_id": "1584"
+    },
+    "1588": {
+        "extracted_answer": "Delivery",
+        "score": 0,
+        "figure_id": "1588"
+    },
+    "1590": {
+        "extracted_answer": "Abiotic resources",
+        "score": 0,
+        "figure_id": "1590"
+    },
+    "1594": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1594"
+    },
+    "1597": {
+        "extract_answer": "High",
+        "score": 1,
+        "figure_id": "1597"
+    },
+    "1601": {
+        "extracted_answer": "0.8",
+        "score": 1,
+        "figure_id": "1601"
+    },
+    "1605": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1605"
+    },
+    "1608": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1608"
+    },
+    "1611": {
+        "extracted_answer": "SV, VS, GN, NG",
+        "score": 0,
+        "figure_id": "1611"
+    },
+    "1614": {
+        "extracted_answer": "E",
+        "score": 0,
+        "figure_id": "1614"
+    },
+    "1619": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1619"
+    },
+    "1627": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1627"
+    },
+    "1630": {
+        "extracted_answer": "Bistable competition",
+        "score": 0,
+        "figure_id": "1630"
+    },
+    "1639": {
+        "extracted_answer": "FFN: ESM-1b, one-hot",
+        "score": 0,
+        "figure_id": "1639"
+    },
+    "1645": {
+        "extracted_answer": "State D",
+        "score": 1,
+        "figure_id": "1645"
+    },
+    "1649": {
+        "extracted_answer": "Var1",
+        "score": 1,
+        "figure_id": "1649"
+    },
+    "1651": {
+        "extracted_answer": "F2",
+        "score": 0,
+        "figure_id": "1651"
+    },
+    "1654": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1654"
+    },
+    "1659": {
+        "extracted_answer": "1",
+        "score": 1,
+        "figure_id": "1659"
+    },
+    "1662": {
+        "extracted_answer": "Control",
+        "score": 1,
+        "figure_id": "1662"
+    },
+    "1668": {
+        "extract_answer": "African ancestors",
+        "score": 1,
+        "figure_id": "1668"
+    },
+    "1672": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "1672"
+    },
+    "1675": {
+        "extracted_answer": "unknown",
+        "score": 0,
+        "figure_id": "1675"
+    },
+    "1680": {
+        "extracted_answer": "2022-02-21",
+        "score": 0,
+        "figure_id": "1680"
+    },
+    "1684": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1684"
+    },
+    "1687": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1687"
+    },
+    "1690": {
+        "extracted_answer": "400k",
+        "score": 0,
+        "figure_id": "1690"
+    },
+    "1694": {
+        "extracted_answer": "0.48",
+        "score": 0,
+        "figure_id": "1694"
+    },
+    "1696": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1696"
+    },
+    "1701": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1701"
+    },
+    "1704": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1704"
+    },
+    "1706": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1706"
+    },
+    "1713": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "1713"
+    },
+    "1720": {
+        "extracted_answer": "A5",
+        "score": 0,
+        "figure_id": "1720"
+    },
+    "1725": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1725"
+    },
+    "1729": {
+        "extracted_answer": "Vegetables",
+        "score": 1,
+        "figure_id": "1729"
+    },
+    "1736": {
+        "extracted_answer": "Light green curve",
+        "score": 0,
+        "figure_id": "1736"
+    },
+    "1753": {
+        "extract_answer": "Large shade intolerant 1",
+        "score": 1,
+        "figure_id": "1753"
+    },
+    "1760": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1760"
+    },
+    "1763": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "1763"
+    },
+    "1769": {
+        "extracted_answer": "Oblique",
+        "score": 1,
+        "figure_id": "1769"
+    },
+    "1773": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1773"
+    },
+    "1784": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "1784"
+    },
+    "1786": {
+        "extracted_answer": "GP",
+        "score": 1,
+        "figure_id": "1786"
+    },
+    "1789": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1789"
+    },
+    "1791": {
+        "extracted_answer": "100",
+        "score": 0,
+        "figure_id": "1791"
+    },
+    "1794": {
+        "extracted_answer": "Tox21",
+        "score": 0,
+        "figure_id": "1794"
+    },
+    "1803": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1803"
+    },
+    "1815": {
+        "extracted_answer": "higher",
+        "score": 0,
+        "figure_id": "1815"
+    },
+    "1819": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "1819"
+    },
+    "1826": {
+        "extracted_answer": "-0.4",
+        "score": 0,
+        "figure_id": "1826"
+    },
+    "1833": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "1833"
+    },
+    "1838": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1838"
+    },
+    "1842": {
+        "extracted_answer": "Plot (I) a=-100",
+        "score": 0,
+        "figure_id": "1842"
+    },
+    "1844": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1844"
+    },
+    "1848": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1848"
+    },
+    "1852": {
+        "extracted_answer": "Value Investor",
+        "score": 0,
+        "figure_id": "1852"
+    },
+    "1855": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1855"
+    },
+    "1857": {
+        "extracted_answer": "Reverse",
+        "score": 1,
+        "figure_id": "1857"
+    },
+    "1861": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "1861"
+    },
+    "1863": {
+        "extracted_answer": "China",
+        "score": 0,
+        "figure_id": "1863"
+    },
+    "1868": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1868"
+    },
+    "1880": {
+        "extracted_answer": "SP500TR",
+        "score": 0,
+        "figure_id": "1880"
+    },
+    "1886": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "1886"
+    },
+    "1895": {
+        "extracted_answer": "3",
+        "score": 1,
+        "figure_id": "1895"
+    },
+    "1898": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1898"
+    },
+    "1901": {
+        "extracted_answer": "gA(r)",
+        "score": 0,
+        "figure_id": "1901"
+    },
+    "1903": {
+        "extracted_answer": "binancefut_BTC/USDT",
+        "score": 0,
+        "figure_id": "1903"
+    },
+    "1910": {
+        "extracted_answer": "VIX_1",
+        "score": 0,
+        "figure_id": "1910"
+    },
+    "1914": {
+        "extracted_answer": "actual S&P500",
+        "score": 0,
+        "figure_id": "1914"
+    },
+    "1916": {
+        "extract_answer": "Blue",
+        "score": 1,
+        "figure_id": "1916"
+    },
+    "1918": {
+        "extracted_answer": "no news",
+        "score": 0,
+        "figure_id": "1918"
+    },
+    "1922": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "1922"
+    },
+    "1929": {
+        "extracted_answer": "DAX",
+        "score": 0,
+        "figure_id": "1929"
+    },
+    "1937": {
+        "extracted_answer": "Default",
+        "score": 0,
+        "figure_id": "1937"
+    },
+    "1940": {
+        "extracted_answer": "Pnl mom",
+        "score": 0,
+        "figure_id": "1940"
+    },
+    "1942": {
+        "extracted_answer": "4",
+        "score": 1,
+        "figure_id": "1942"
+    },
+    "1948": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1948"
+    },
+    "1954": {
+        "extracted_answer": "1 expert",
+        "score": 1,
+        "figure_id": "1954"
+    },
+    "1958": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1958"
+    },
+    "1963": {
+        "extracted_answer": "T_e",
+        "score": 0,
+        "figure_id": "1963"
+    },
+    "1968": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "1968"
+    },
+    "1970": {
+        "extract_answer": "Simulated",
+        "score": 0,
+        "figure_id": "1970"
+    },
+    "1973": {
+        "extracted_answer": "gold",
+        "score": 0,
+        "figure_id": "1973"
+    },
+    "1976": {
+        "extracted_answer": "decreasing",
+        "score": 1,
+        "figure_id": "1976"
+    },
+    "1985": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1985"
+    },
+    "1987": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "1987"
+    },
+    "1994": {
+        "extracted_answer": "MR",
+        "score": 0,
+        "figure_id": "1994"
+    },
+    "1999": {
+        "extracted_answer": "Historical",
+        "score": 0,
+        "figure_id": "1999"
+    },
+    "2001": {
+        "extract_answer": "red curve",
+        "score": 1,
+        "figure_id": "2001"
+    },
+    "2004": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "2004"
+    },
+    "2009": {
+        "extracted_answer": "2016",
+        "score": 1,
+        "figure_id": "2009"
+    },
+    "2016": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2016"
+    },
+    "2030": {
+        "extracted_answer": "4-layer (256 neurons)",
+        "score": 0,
+        "figure_id": "2030"
+    },
+    "2039": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "2039"
+    },
+    "2050": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "2050"
+    },
+    "2053": {
+        "extracted_answer": "BAC",
+        "score": 0,
+        "figure_id": "2053"
+    },
+    "2056": {
+        "extracted_answer": "NASDAQ",
+        "score": 1,
+        "figure_id": "2056"
+    },
+    "2061": {
+        "extracted_answer": "2",
+        "score": 0,
+        "figure_id": "2061"
+    },
+    "2068": {
+        "extracted_answer": "RMC-2",
+        "score": 0,
+        "figure_id": "2068"
+    },
+    "2072": {
+        "extracted_answer": "S&P500",
+        "score": 0,
+        "figure_id": "2072"
+    },
+    "2078": {
+        "extracted_answer": "Row 2, Column 2",
+        "score": 0,
+        "figure_id": "2078"
+    },
+    "2082": {
+        "extracted_answer": "GPT-4",
+        "score": 0,
+        "figure_id": "2082"
+    },
+    "2089": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "2089"
+    },
+    "2093": {
+        "extracted_answer": "Second plot",
+        "score": 1,
+        "figure_id": "2093"
+    },
+    "2100": {
+        "extracted_answer": "Theta",
+        "score": 1,
+        "figure_id": "2100"
+    },
+    "2106": {
+        "extracted_answer": "AR1, AR2, Block, Star, Circle",
+        "score": 0,
+        "figure_id": "2106"
+    },
+    "2112": {
+        "extracted_answer": "3",
+        "score": 0,
+        "figure_id": "2112"
+    },
+    "2119": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2119"
+    },
+    "2124": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2124"
+    },
+    "2129": {
+        "extracted_answer": "(d)",
+        "score": 0,
+        "figure_id": "2129"
+    },
+    "2133": {
+        "extracted_answer": "4000",
+        "score": 0,
+        "figure_id": "2133"
+    },
+    "2138": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2138"
+    },
+    "2145": {
+        "extracted_answer": "kw_avg_avg",
+        "score": 1,
+        "figure_id": "2145"
+    },
+    "2148": {
+        "extracted_answer": "The JT method",
+        "score": 0,
+        "figure_id": "2148"
+    },
+    "2150": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2150"
+    },
+    "2157": {
+        "extracted_answer": "Decreased",
+        "score": 1,
+        "figure_id": "2157"
+    },
+    "2166": {
+        "extracted_answer": "11",
+        "score": 0,
+        "figure_id": "2166"
+    },
+    "2177": {
+        "extracted_answer": "CAM",
+        "score": 0,
+        "figure_id": "2177"
+    },
+    "2181": {
+        "extracted_answer": "0.50",
+        "score": 1,
+        "figure_id": "2181"
+    },
+    "2188": {
+        "extract_answer": "FLR",
+        "score": 0,
+        "figure_id": "2188"
+    },
+    "2193": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2193"
+    },
+    "2195": {
+        "extracted_answer": "Double DID, augsynth",
+        "score": 0,
+        "figure_id": "2195"
+    },
+    "2199": {
+        "extracted_answer": "1",
+        "score": 0,
+        "figure_id": "2199"
+    },
+    "2203": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2203"
+    },
+    "2209": {
+        "extracted_answer": "26",
+        "score": 0,
+        "figure_id": "2209"
+    },
+    "2221": {
+        "extracted_answer": "Fused",
+        "score": 1,
+        "figure_id": "2221"
+    },
+    "2224": {
+        "extracted_answer": "4",
+        "score": 0,
+        "figure_id": "2224"
+    },
+    "2236": {
+        "extract_answer": "",
+        "score": 0,
+        "figure_id": "2236"
+    },
+    "2240": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "2240"
+    },
+    "2243": {
+        "extracted_answer": "Day 5",
+        "score": 0,
+        "figure_id": "2243"
+    },
+    "2246": {
+        "extracted_answer": "CIFAR-10, SVHN",
+        "score": 0,
+        "figure_id": "2246"
+    },
+    "2257": {
+        "extracted_answer": "RiskRankedReversed",
+        "score": 0,
+        "figure_id": "2257"
+    },
+    "2263": {
+        "extract_answer": "Cluster 1",
+        "score": 0,
+        "figure_id": "2263"
+    },
+    "2270": {
+        "extract_answer": "newman_betweenness_centrality_min, pagerank_org",
+        "score": 0,
+        "figure_id": "2270"
+    },
+    "2274": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2274"
+    },
+    "2282": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "2282"
+    },
+    "2288": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2288"
+    },
+    "2290": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2290"
+    },
+    "2293": {
+        "extracted_answer": "Positive",
+        "score": 1,
+        "figure_id": "2293"
+    },
+    "2296": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2296"
+    },
+    "2307": {
+        "extract_answer": "Yes",
+        "score": 0,
+        "figure_id": "2307"
+    },
+    "2310": {
+        "extracted_answer": "2",
+        "score": 1,
+        "figure_id": "2310"
+    },
+    "2314": {
+        "extract_answer": "No",
+        "score": 0,
+        "figure_id": "2314"
+    },
+    "2321": {
+        "extract_answer": "removed",
+        "score": 1,
+        "figure_id": "2321"
+    },
+    "2328": {
+        "extracted_answer": "10",
+        "score": 0,
+        "figure_id": "2328"
+    },
+    "2330": {
+        "extracted_answer": "Gamma",
+        "score": 1,
+        "figure_id": "2330"
+    },
+    "2336": {
+        "extracted_answer": "Dynamic PPMM",
+        "score": 1,
+        "figure_id": "2336"
+    },
+    "2342": {
+        "extracted_answer": "Geese Period 8",
+        "score": 0,
+        "figure_id": "2342"
+    },
+    "2346": {
+        "extracted_answer": "SBC w/o multiple test adj.",
+        "score": 1,
+        "figure_id": "2346"
+    },
+    "2355": {
+        "extract_answer": "Right",
+        "score": 0,
+        "figure_id": "2355"
+    },
+    "2359": {
+        "extracted_answer": "MMR-GEE",
+        "score": 0,
+        "figure_id": "2359"
+    },
+    "2361": {
+        "extracted_answer": "6",
+        "score": 0,
+        "figure_id": "2361"
+    },
+    "2365": {
+        "extracted_answer": "J-PCMCII+",
+        "score": 0,
+        "figure_id": "2365"
+    },
+    "2371": {
+        "extracted_answer": "GEE",
+        "score": 1,
+        "figure_id": "2371"
+    },
+    "2373": {
+        "extracted_answer": "",
+        "score": 0,
+        "figure_id": "2373"
+    },
+    "2378": {
+        "extracted_answer": "AIRU-WRF",
+        "score": 1,
+        "figure_id": "2378"
+    },
+    "2380": {
+        "extracted_answer": "4am - 8am",
+        "score": 0,
+        "figure_id": "2380"
+    },
+    "2385": {
+        "extracted_answer": "BO06 trial",
+        "score": 0,
+        "figure_id": "2385"
+    },
+    "2391": {
+        "extract_answer": "BCRD-ReO",
+        "score": 0,
+        "figure_id": "2391"
+    },
+    "2396": {
+        "extracted_answer": "Gaussian 1",
+        "score": 0,
+        "figure_id": "2396"
+    },
+    "2399": {
+        "extracted_answer": "SCAD spline",
+        "score": 0,
+        "figure_id": "2399"
+    }
+}

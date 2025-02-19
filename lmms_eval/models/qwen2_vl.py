@@ -9,7 +9,7 @@ from accelerate import Accelerator, DistributedType
 from loguru import logger as eval_logger
 from PIL import Image
 from tqdm import tqdm
-from transformers import AutoProcessor, AutoTokenizer, Qwen2VLForConditionalGeneration
+from transformers import AutoProcessor, AutoTokenizer, Qwen2VLForConditionalGeneration,Qwen2_5_VLForConditionalGeneration
 
 from lmms_eval import utils
 from lmms_eval.api.instance import Instance
@@ -38,8 +38,9 @@ class Qwen2_VL(lmms):
         batch_size: Optional[Union[int, str]] = 1,
         use_cache=True,
         use_flash_attention_2: Optional[bool] = False,
-        max_pixels: int = 12845056,
-        min_pixels: int = 3136,
+        # max_pixels: int = 12845056,
+        max_pixels: int = 1280*28*28,
+        min_pixels: int = 256*28*28,
         max_num_frames: int = 32,
         **kwargs,
     ) -> None:
@@ -66,7 +67,13 @@ class Qwen2_VL(lmms):
                 attn_implementation="flash_attention_2",
             ).eval()
         else:
-            self._model = Qwen2VLForConditionalGeneration.from_pretrained(pretrained, torch_dtype="auto", device_map=self.device_map).eval()
+            # self._model = Qwen2VLForConditionalGeneration.from_pretrained(pretrained, torch_dtype="auto", device_map=self.device_map).eval()
+            if '2.5' in pretrained:
+                self._model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+                    "Qwen/Qwen2.5-VL-7B-Instruct", torch_dtype="auto", device_map=self.device_map
+                ).eval()
+            else:
+                self._model = Qwen2VLForConditionalGeneration.from_pretrained(pretrained, torch_dtype="auto", device_map=self.device_map).eval()
         self.processor = AutoProcessor.from_pretrained(pretrained, max_pixels=max_pixels, min_pixels=min_pixels)
         self.max_pixels = max_pixels
         self.min_pixels = min_pixels
@@ -74,7 +81,8 @@ class Qwen2_VL(lmms):
         self._tokenizer = AutoTokenizer.from_pretrained(pretrained)
 
         self._config = self.model.config
-        self.batch_size_per_gpu = int(batch_size)
+        # self.batch_size_per_gpu = int(batch_size)
+        self.batch_size_per_gpu = 1
         self.use_cache = use_cache
 
         if accelerator.num_processes > 1:
@@ -258,7 +266,6 @@ class Qwen2_VL(lmms):
                 gen_kwargs["num_beams"] = 1
 
             pad_token_id = self.tokenizer.pad_token_id
-
             cont = self.model.generate(
                 **inputs,
                 eos_token_id=self.tokenizer.eos_token_id,
@@ -267,7 +274,8 @@ class Qwen2_VL(lmms):
                 temperature=gen_kwargs["temperature"],
                 top_p=gen_kwargs["top_p"],
                 num_beams=gen_kwargs["num_beams"],
-                max_new_tokens=gen_kwargs["max_new_tokens"],
+                # max_new_tokens=gen_kwargs["max_new_tokens"],
+                max_new_tokens=128,
                 use_cache=self.use_cache,
             )
 

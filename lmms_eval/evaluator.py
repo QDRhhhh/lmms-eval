@@ -411,6 +411,7 @@ def evaluate(
             task_group_alias[group_name] = configs[task_name]["group_alias"]
 
         limit = get_sample_size(task, limit)
+        limit = 10
         task.build_all_requests(
             limit=limit,
             rank=lm.rank,
@@ -471,7 +472,6 @@ def evaluate(
     for task_output in eval_tasks:
         task = task_output.task
         task.apply_filters()
-
         ### Collect values of metrics on all datapoints ###
         # # unpack results and sort back in order and return control to Task
         # TODO: make it possible to use a different metric per filter
@@ -493,7 +493,11 @@ def evaluate(
             pbar = tqdm(total=total_docs, desc=f"Postprocessing", disable=(RANK != 0))
             for doc_id, doc in doc_iterator:
                 requests = instances_by_doc_id[doc_id]
+                # print("----------------------------------------------------------------")
+                # print(doc,requests,filter_key)
+                # print("----------------------------------------------------------------")
                 metrics = task.process_results(doc, [req.filtered_resps[filter_key] for req in requests])
+                # print(metrics)
                 if log_samples:
                     target = task.doc_to_target(doc)
                     saved_doc = {}
@@ -590,7 +594,8 @@ def evaluate(
             num_fewshot,
             higher_is_better,
         ) = consolidate_results(eval_tasks)
-
+        print(eval_tasks)
+        print(results)
         ### Calculate group metrics ###
         if bool(results):
             results, versions, show_group_table, *_ = consolidate_group_results(results, versions, task_dict)

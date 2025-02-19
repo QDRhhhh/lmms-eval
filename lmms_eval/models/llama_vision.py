@@ -27,7 +27,7 @@ DEFAULT_IMAGE_TOKEN = "<|image|>"
 class LlamaVision(lmms):
     def __init__(
         self,
-        pretrained: str = "meta-llama/Llama-3.2-11B-Vision",
+        pretrained: str = "unsloth/Llama-3.2-11B-Vision",
         revision: str = "main",
         device: str = "cuda",
         dtype: Optional[Union[str, torch.dtype]] = "auto",
@@ -186,7 +186,8 @@ class LlamaVision(lmms):
             for _ in range(len(images)):
                 messages[-1]["content"].append({"type": "image"})
             messages[-1]["content"].append({"type": "text", "text": contexts})
-            prompt = self.processor.apply_chat_template(messages, add_generation_prompt=True)
+            # prompt = self.processor.apply_chat_template(messages, add_generation_prompt=True)
+            prompt = '<|image|><|begin_of_text|>'+str(messages)
             inputs = self.processor(images, prompt, add_special_tokens=False, return_tensors="pt").to(self.model.device)
 
             if "max_new_tokens" not in gen_kwargs:
@@ -207,7 +208,8 @@ class LlamaVision(lmms):
                     temperature=gen_kwargs["temperature"],
                     do_sample=gen_kwargs["do_sample"],
                 )
-                output = output[:, inputs["input_ids"].shape[-1] :]
+                # output = output[:, inputs["input_ids"].shape[-1] :]
+                # print(self.processor.decode(output[0], skip_special_tokens=True))
                 res.append(self.processor.decode(output[0], skip_special_tokens=True))
 
             pbar.update(1)
